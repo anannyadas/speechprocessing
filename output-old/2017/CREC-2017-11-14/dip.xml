@@ -1,0 +1,2634 @@
+<?xml version="1.0" encoding="UTF-8"?><mets xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:utils="xalan://gov.gpo.fdsys.common.utils" xmlns:xalan="http://xml.apache.org/xalan" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:datetime="http://exslt.org/dates-and-times" xmlns="http://www.loc.gov/METS/" xsi:schemaLocation="http://www.loc.gov/METS/ http://www.loc.gov/standards/mets/mets.xsd" ID="P0b002ee1977d571d" LABEL="Congressional Record Volume 163, Issue 186, (November 14, 2017)" OBJID="CREC-2017-11-14">
+<metsHdr CREATEDATE="2017-12-24T15:16:46Z" LASTMODDATE="2017-12-24T15:16:46Z">
+<agent ROLE="CREATOR" TYPE="ORGANIZATION">
+<name>United States Government Publishing Office</name>
+</agent>
+</metsHdr>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgD1213">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgD1213" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgD1213']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgD1214">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgD1214" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgD1214']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgD1215">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgD1215" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgD1215']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgD1216">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgD1216" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgD1216']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgD1218">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgD1218" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgD1218']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgD1219">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgD1219" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgD1219']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgE1563-2">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgE1563-2" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgE1563-2']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgE1563-3">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgE1563-3" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgE1563-3']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgE1563-4">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgE1563-4" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgE1563-4']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgE1564">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgE1564" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgE1564']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgE1564-2">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgE1564-2" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgE1564-2']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgE1564-3">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgE1564-3" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgE1564-3']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgE1564-4">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgE1564-4" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgE1564-4']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgE1564-5">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgE1564-5" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgE1564-5']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgE1565">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgE1565" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgE1565']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgE1565-2">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgE1565-2" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgE1565-2']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgE1565-3">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgE1565-3" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgE1565-3']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgE1565-4">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgE1565-4" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgE1565-4']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgE1565-5">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgE1565-5" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgE1565-5']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgE1565-6">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgE1565-6" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgE1565-6']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgE1566">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgE1566" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgE1566']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgE1566-2">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgE1566-2" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgE1566-2']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgE1566-3">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgE1566-3" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgE1566-3']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgE1566-4">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgE1566-4" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgE1566-4']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgE1566-5">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgE1566-5" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgE1566-5']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgE1566-6">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgE1566-6" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgE1566-6']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgE1566-7">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgE1566-7" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgE1566-7']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgE1567">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgE1567" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgE1567']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgE1567-2">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgE1567-2" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgE1567-2']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH-FrontMatter">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH-FrontMatter" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH-FrontMatter']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9181">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9181" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9181']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9181-2">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9181-2" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9181-2']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9181-3">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9181-3" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9181-3']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9181-4">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9181-4" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9181-4']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9182">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9182" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9182']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9182-2">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9182-2" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9182-2']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9183">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9183" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9183']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9183-2">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9183-2" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9183-2']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9184">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9184" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9184']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9184-2">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9184-2" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9184-2']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9185">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9185" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9185']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9185-2">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9185-2" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9185-2']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9187">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9187" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9187']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9187-2">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9187-2" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9187-2']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9188">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9188" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9188']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9188-2">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9188-2" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9188-2']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9188-3">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9188-3" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9188-3']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9188-4">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9188-4" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9188-4']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9188-5">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9188-5" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9188-5']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9188-6">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9188-6" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9188-6']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9188-7">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9188-7" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9188-7']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9189">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9189" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9189']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9189-2">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9189-2" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9189-2']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9189-3">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9189-3" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9189-3']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9189-4">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9189-4" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9189-4']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9189-5">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9189-5" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9189-5']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9189-6">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9189-6" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9189-6']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9190">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9190" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9190']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9190-2">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9190-2" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9190-2']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9190-3">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9190-3" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9190-3']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9190-4">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9190-4" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9190-4']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9190-5">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9190-5" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9190-5']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9191">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9191" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9191']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9191-2">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9191-2" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9191-2']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9199">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9199" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9199']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9199-2">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9199-2" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9199-2']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9200">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9200" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9200']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9209">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9209" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9209']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9238">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9238" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9238']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9239">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9239" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9239']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9239-2">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9239-2" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9239-2']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9239-3">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9239-3" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9239-3']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9239-4">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9239-4" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9239-4']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9239-5">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9239-5" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9239-5']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9240">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9240" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9240']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9240-2">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9240-2" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9240-2']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9240-3">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9240-3" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9240-3']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9240-4">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9240-4" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9240-4']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9240-5">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9240-5" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9240-5']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9241">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9241" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9241']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9241-2">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9241-2" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9241-2']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9241-3">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9241-3" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9241-3']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9241-4">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9241-4" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9241-4']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9247">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9247" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9247']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9253">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9253" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9253']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9253-2">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9253-2" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9253-2']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9253-3">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9253-3" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9253-3']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9253-4">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9253-4" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9253-4']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9253-5">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9253-5" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9253-5']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9253-6">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9253-6" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9253-6']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9254">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9254" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9254']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9254-2">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9254-2" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9254-2']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9254-3">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9254-3" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9254-3']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9254-4">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9254-4" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9254-4']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9254-5">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9254-5" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9254-5']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9254-6">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9254-6" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9254-6']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9254-7">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9254-7" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9254-7']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9254-8">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9254-8" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9254-8']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9254-9">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9254-9" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9254-9']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9254-10">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9254-10" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9254-10']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9254-11">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9254-11" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9254-11']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9254-12">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9254-12" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9254-12']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9254-13">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9254-13" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9254-13']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9255">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9255" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9255']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9255-2">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9255-2" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9255-2']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9255-3">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9255-3" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9255-3']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgH9255-4">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgH9255-4" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgH9255-4']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgS-FrontMatter">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgS-FrontMatter" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgS-FrontMatter']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgS7185">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgS7185" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgS7185']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgS7185-2">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgS7185-2" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgS7185-2']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgS7185-3">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgS7185-3" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgS7185-3']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgS7185-4">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgS7185-4" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgS7185-4']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgS7185-5">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgS7185-5" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgS7185-5']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgS7185-6">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgS7185-6" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgS7185-6']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgS7186">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgS7186" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgS7186']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgS7186-2">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgS7186-2" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgS7186-2']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgS7186-3">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgS7186-3" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgS7186-3']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgS7186-4">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgS7186-4" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgS7186-4']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgS7192">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgS7192" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgS7192']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgS7194">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgS7194" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgS7194']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgS7194-2">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgS7194-2" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgS7194-2']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgS7206">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgS7206" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgS7206']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgS7206-2">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgS7206-2" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgS7206-2']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgS7209">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgS7209" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgS7209']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgS7209-2">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgS7209-2" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgS7209-2']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgS7209-3">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgS7209-3" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgS7209-3']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgS7209-4">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgS7209-4" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgS7209-4']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgS7209-5">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgS7209-5" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgS7209-5']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgS7211">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgS7211" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgS7211']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgS7212">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgS7212" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgS7212']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgS7212-2">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgS7212-2" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgS7212-2']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgS7213">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgS7213" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgS7213']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgS7213-2">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgS7213-2" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgS7213-2']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgS7213-3">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgS7213-3" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgS7213-3']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgS7213-4">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgS7213-4" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgS7213-4']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgS7213-5">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgS7213-5" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgS7213-5']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgS7213-6">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgS7213-6" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgS7213-6']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgS7213-7">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgS7213-7" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgS7213-7']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgS7214">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgS7214" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgS7214']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgS7214-2">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgS7214-2" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgS7214-2']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgS7215">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgS7215" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgS7215']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgS7216">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgS7216" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgS7216']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgS7217">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgS7217" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgS7217']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgS7217-2">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgS7217-2" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgS7217-2']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgS7219">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgS7219" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgS7219']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgS7219-2">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgS7219-2" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgS7219-2']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgS7221">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgS7221" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgS7221']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgS7221-2">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgS7221-2" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgS7221-2']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgS7221-3">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgS7221-3" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgS7221-3']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgS7221-4">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgS7221-4" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgS7221-4']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgS7223">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgS7223" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgS7223']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<dmdSec ID="descriptive-metadata-mods-id-CREC-2017-11-14-pt1-PgS7223-2">
+<mdRef ID="id-CREC-2017-11-14-pt1-PgS7223-2" MIMETYPE="text/xml" XPTR="/mods/relatedItem[@ID='id-CREC-2017-11-14-pt1-PgS7223-2']" LOCTYPE="URL" xlink:href="file://mods.xml" MDTYPE="MODS"/>
+</dmdSec>
+<amdSec>
+<digiprovMD ID="provenance-metadata-premis">
+<mdRef MIMETYPE="text/xml" LOCTYPE="URL" xlink:href="file://premis.xml" MDTYPE="PREMIS"/>
+</digiprovMD>
+</amdSec>
+<fileSec><fileGrp USE="text/html"><file ID="FID1" MIMETYPE="text/html" SIZE="5627" DMDID="id-CREC-2017-11-14-pt1-PgD1213">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgD1213.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgD1213.htm"/>
+</file>
+<file ID="FID2" MIMETYPE="text/html" SIZE="6377" DMDID="id-CREC-2017-11-14-pt1-PgD1214">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgD1214.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgD1214.htm"/>
+</file>
+<file ID="FID3" MIMETYPE="text/html" SIZE="4782" DMDID="id-CREC-2017-11-14-pt1-PgD1215">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgD1215.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgD1215.htm"/>
+</file>
+<file ID="FID4" MIMETYPE="text/html" SIZE="7430" DMDID="id-CREC-2017-11-14-pt1-PgD1216">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgD1216.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgD1216.htm"/>
+</file>
+<file ID="FID5" MIMETYPE="text/html" SIZE="8800" DMDID="id-CREC-2017-11-14-pt1-PgD1218">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgD1218.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgD1218.htm"/>
+</file>
+<file ID="FID6" MIMETYPE="text/html" SIZE="4094" DMDID="id-CREC-2017-11-14-pt1-PgD1219">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgD1219.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgD1219.htm"/>
+</file>
+<file ID="FID7" MIMETYPE="text/html" SIZE="3086" DMDID="id-CREC-2017-11-14-pt1-PgE1563-2">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgE1563-2.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgE1563-2.htm"/>
+</file>
+<file ID="FID8" MIMETYPE="text/html" SIZE="3960" DMDID="id-CREC-2017-11-14-pt1-PgE1563-3">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgE1563-3.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgE1563-3.htm"/>
+</file>
+<file ID="FID9" MIMETYPE="text/html" SIZE="2508" DMDID="id-CREC-2017-11-14-pt1-PgE1563-4">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgE1563-4.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgE1563-4.htm"/>
+</file>
+<file ID="FID10" MIMETYPE="text/html" SIZE="2324" DMDID="id-CREC-2017-11-14-pt1-PgE1564">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgE1564.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgE1564.htm"/>
+</file>
+<file ID="FID11" MIMETYPE="text/html" SIZE="2182" DMDID="id-CREC-2017-11-14-pt1-PgE1564-2">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgE1564-2.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgE1564-2.htm"/>
+</file>
+<file ID="FID12" MIMETYPE="text/html" SIZE="1369" DMDID="id-CREC-2017-11-14-pt1-PgE1564-3">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgE1564-3.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgE1564-3.htm"/>
+</file>
+<file ID="FID13" MIMETYPE="text/html" SIZE="523" DMDID="id-CREC-2017-11-14-pt1-PgE1564-4">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgE1564-4.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgE1564-4.htm"/>
+</file>
+<file ID="FID14" MIMETYPE="text/html" SIZE="2904" DMDID="id-CREC-2017-11-14-pt1-PgE1564-5">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgE1564-5.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgE1564-5.htm"/>
+</file>
+<file ID="FID15" MIMETYPE="text/html" SIZE="2144" DMDID="id-CREC-2017-11-14-pt1-PgE1565">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgE1565.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgE1565.htm"/>
+</file>
+<file ID="FID16" MIMETYPE="text/html" SIZE="3155" DMDID="id-CREC-2017-11-14-pt1-PgE1565-2">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgE1565-2.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgE1565-2.htm"/>
+</file>
+<file ID="FID17" MIMETYPE="text/html" SIZE="803" DMDID="id-CREC-2017-11-14-pt1-PgE1565-3">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgE1565-3.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgE1565-3.htm"/>
+</file>
+<file ID="FID18" MIMETYPE="text/html" SIZE="1396" DMDID="id-CREC-2017-11-14-pt1-PgE1565-4">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgE1565-4.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgE1565-4.htm"/>
+</file>
+<file ID="FID19" MIMETYPE="text/html" SIZE="586" DMDID="id-CREC-2017-11-14-pt1-PgE1565-5">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgE1565-5.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgE1565-5.htm"/>
+</file>
+<file ID="FID20" MIMETYPE="text/html" SIZE="2167" DMDID="id-CREC-2017-11-14-pt1-PgE1565-6">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgE1565-6.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgE1565-6.htm"/>
+</file>
+<file ID="FID21" MIMETYPE="text/html" SIZE="579" DMDID="id-CREC-2017-11-14-pt1-PgE1566">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgE1566.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgE1566.htm"/>
+</file>
+<file ID="FID22" MIMETYPE="text/html" SIZE="1206" DMDID="id-CREC-2017-11-14-pt1-PgE1566-2">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgE1566-2.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgE1566-2.htm"/>
+</file>
+<file ID="FID23" MIMETYPE="text/html" SIZE="629" DMDID="id-CREC-2017-11-14-pt1-PgE1566-3">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgE1566-3.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgE1566-3.htm"/>
+</file>
+<file ID="FID24" MIMETYPE="text/html" SIZE="2304" DMDID="id-CREC-2017-11-14-pt1-PgE1566-4">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgE1566-4.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgE1566-4.htm"/>
+</file>
+<file ID="FID25" MIMETYPE="text/html" SIZE="2477" DMDID="id-CREC-2017-11-14-pt1-PgE1566-5">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgE1566-5.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgE1566-5.htm"/>
+</file>
+<file ID="FID26" MIMETYPE="text/html" SIZE="1876" DMDID="id-CREC-2017-11-14-pt1-PgE1566-6">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgE1566-6.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgE1566-6.htm"/>
+</file>
+<file ID="FID27" MIMETYPE="text/html" SIZE="664" DMDID="id-CREC-2017-11-14-pt1-PgE1566-7">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgE1566-7.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgE1566-7.htm"/>
+</file>
+<file ID="FID28" MIMETYPE="text/html" SIZE="5567" DMDID="id-CREC-2017-11-14-pt1-PgE1567">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgE1567.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgE1567.htm"/>
+</file>
+<file ID="FID29" MIMETYPE="text/html" SIZE="2051" DMDID="id-CREC-2017-11-14-pt1-PgE1567-2">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgE1567-2.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgE1567-2.htm"/>
+</file>
+<file ID="FID30" MIMETYPE="text/html" SIZE="689" DMDID="id-CREC-2017-11-14-pt1-PgH-FrontMatter">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH-FrontMatter.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH-FrontMatter.htm"/>
+</file>
+<file ID="FID31" MIMETYPE="text/html" SIZE="298" DMDID="id-CREC-2017-11-14-pt1-PgH9181">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9181.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9181.htm"/>
+</file>
+<file ID="FID32" MIMETYPE="text/html" SIZE="552" DMDID="id-CREC-2017-11-14-pt1-PgH9181-2">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9181-2.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9181-2.htm"/>
+</file>
+<file ID="FID33" MIMETYPE="text/html" SIZE="597" DMDID="id-CREC-2017-11-14-pt1-PgH9181-3">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9181-3.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9181-3.htm"/>
+</file>
+<file ID="FID34" MIMETYPE="text/html" SIZE="6460" DMDID="id-CREC-2017-11-14-pt1-PgH9181-4">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9181-4.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9181-4.htm"/>
+</file>
+<file ID="FID35" MIMETYPE="text/html" SIZE="3863" DMDID="id-CREC-2017-11-14-pt1-PgH9182">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9182.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9182.htm"/>
+</file>
+<file ID="FID36" MIMETYPE="text/html" SIZE="3933" DMDID="id-CREC-2017-11-14-pt1-PgH9182-2">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9182-2.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9182-2.htm"/>
+</file>
+<file ID="FID37" MIMETYPE="text/html" SIZE="5171" DMDID="id-CREC-2017-11-14-pt1-PgH9183">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9183.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9183.htm"/>
+</file>
+<file ID="FID38" MIMETYPE="text/html" SIZE="2286" DMDID="id-CREC-2017-11-14-pt1-PgH9183-2">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9183-2.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9183-2.htm"/>
+</file>
+<file ID="FID39" MIMETYPE="text/html" SIZE="4990" DMDID="id-CREC-2017-11-14-pt1-PgH9184">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9184.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9184.htm"/>
+</file>
+<file ID="FID40" MIMETYPE="text/html" SIZE="4596" DMDID="id-CREC-2017-11-14-pt1-PgH9184-2">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9184-2.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9184-2.htm"/>
+</file>
+<file ID="FID41" MIMETYPE="text/html" SIZE="1614" DMDID="id-CREC-2017-11-14-pt1-PgH9185">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9185.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9185.htm"/>
+</file>
+<file ID="FID42" MIMETYPE="text/html" SIZE="24018" DMDID="id-CREC-2017-11-14-pt1-PgH9185-2">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9185-2.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9185-2.htm"/>
+</file>
+<file ID="FID43" MIMETYPE="text/html" SIZE="2445" DMDID="id-CREC-2017-11-14-pt1-PgH9187">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9187.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9187.htm"/>
+</file>
+<file ID="FID44" MIMETYPE="text/html" SIZE="2937" DMDID="id-CREC-2017-11-14-pt1-PgH9187-2">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9187-2.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9187-2.htm"/>
+</file>
+<file ID="FID45" MIMETYPE="text/html" SIZE="2631" DMDID="id-CREC-2017-11-14-pt1-PgH9188">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9188.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9188.htm"/>
+</file>
+<file ID="FID46" MIMETYPE="text/html" SIZE="298" DMDID="id-CREC-2017-11-14-pt1-PgH9188-2">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9188-2.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9188-2.htm"/>
+</file>
+<file ID="FID47" MIMETYPE="text/html" SIZE="228" DMDID="id-CREC-2017-11-14-pt1-PgH9188-3">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9188-3.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9188-3.htm"/>
+</file>
+<file ID="FID48" MIMETYPE="text/html" SIZE="1056" DMDID="id-CREC-2017-11-14-pt1-PgH9188-4">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9188-4.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9188-4.htm"/>
+</file>
+<file ID="FID49" MIMETYPE="text/html" SIZE="819" DMDID="id-CREC-2017-11-14-pt1-PgH9188-5">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9188-5.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9188-5.htm"/>
+</file>
+<file ID="FID50" MIMETYPE="text/html" SIZE="479" DMDID="id-CREC-2017-11-14-pt1-PgH9188-6">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9188-6.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9188-6.htm"/>
+</file>
+<file ID="FID51" MIMETYPE="text/html" SIZE="1755" DMDID="id-CREC-2017-11-14-pt1-PgH9188-7">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9188-7.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9188-7.htm"/>
+</file>
+<file ID="FID52" MIMETYPE="text/html" SIZE="253" DMDID="id-CREC-2017-11-14-pt1-PgH9189">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9189.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9189.htm"/>
+</file>
+<file ID="FID53" MIMETYPE="text/html" SIZE="1540" DMDID="id-CREC-2017-11-14-pt1-PgH9189-2">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9189-2.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9189-2.htm"/>
+</file>
+<file ID="FID54" MIMETYPE="text/html" SIZE="1423" DMDID="id-CREC-2017-11-14-pt1-PgH9189-3">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9189-3.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9189-3.htm"/>
+</file>
+<file ID="FID55" MIMETYPE="text/html" SIZE="1461" DMDID="id-CREC-2017-11-14-pt1-PgH9189-4">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9189-4.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9189-4.htm"/>
+</file>
+<file ID="FID56" MIMETYPE="text/html" SIZE="1572" DMDID="id-CREC-2017-11-14-pt1-PgH9189-5">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9189-5.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9189-5.htm"/>
+</file>
+<file ID="FID57" MIMETYPE="text/html" SIZE="1628" DMDID="id-CREC-2017-11-14-pt1-PgH9189-6">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9189-6.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9189-6.htm"/>
+</file>
+<file ID="FID58" MIMETYPE="text/html" SIZE="1252" DMDID="id-CREC-2017-11-14-pt1-PgH9190">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9190.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9190.htm"/>
+</file>
+<file ID="FID59" MIMETYPE="text/html" SIZE="1481" DMDID="id-CREC-2017-11-14-pt1-PgH9190-2">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9190-2.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9190-2.htm"/>
+</file>
+<file ID="FID60" MIMETYPE="text/html" SIZE="1454" DMDID="id-CREC-2017-11-14-pt1-PgH9190-3">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9190-3.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9190-3.htm"/>
+</file>
+<file ID="FID61" MIMETYPE="text/html" SIZE="1515" DMDID="id-CREC-2017-11-14-pt1-PgH9190-4">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9190-4.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9190-4.htm"/>
+</file>
+<file ID="FID62" MIMETYPE="text/html" SIZE="1237" DMDID="id-CREC-2017-11-14-pt1-PgH9190-5">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9190-5.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9190-5.htm"/>
+</file>
+<file ID="FID63" MIMETYPE="text/html" SIZE="933" DMDID="id-CREC-2017-11-14-pt1-PgH9191">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9191.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9191.htm"/>
+</file>
+<file ID="FID64" MIMETYPE="text/html" SIZE="72648" DMDID="id-CREC-2017-11-14-pt1-PgH9191-2">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9191-2.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9191-2.htm"/>
+</file>
+<file ID="FID65" MIMETYPE="text/html" SIZE="7208" DMDID="id-CREC-2017-11-14-pt1-PgH9199">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9199.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9199.htm"/>
+</file>
+<file ID="FID66" MIMETYPE="text/html" SIZE="7591" DMDID="id-CREC-2017-11-14-pt1-PgH9199-2">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9199-2.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9199-2.htm"/>
+</file>
+<file ID="FID67" MIMETYPE="text/html" SIZE="75977" DMDID="id-CREC-2017-11-14-pt1-PgH9200">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9200.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9200.htm"/>
+</file>
+<file ID="FID68" MIMETYPE="text/html" SIZE="299987" DMDID="id-CREC-2017-11-14-pt1-PgH9209">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9209.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9209.htm"/>
+</file>
+<file ID="FID69" MIMETYPE="text/html" SIZE="8456" DMDID="id-CREC-2017-11-14-pt1-PgH9238">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9238.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9238.htm"/>
+</file>
+<file ID="FID70" MIMETYPE="text/html" SIZE="1278" DMDID="id-CREC-2017-11-14-pt1-PgH9239">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9239.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9239.htm"/>
+</file>
+<file ID="FID71" MIMETYPE="text/html" SIZE="1273" DMDID="id-CREC-2017-11-14-pt1-PgH9239-2">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9239-2.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9239-2.htm"/>
+</file>
+<file ID="FID72" MIMETYPE="text/html" SIZE="1406" DMDID="id-CREC-2017-11-14-pt1-PgH9239-3">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9239-3.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9239-3.htm"/>
+</file>
+<file ID="FID73" MIMETYPE="text/html" SIZE="1146" DMDID="id-CREC-2017-11-14-pt1-PgH9239-4">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9239-4.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9239-4.htm"/>
+</file>
+<file ID="FID74" MIMETYPE="text/html" SIZE="1436" DMDID="id-CREC-2017-11-14-pt1-PgH9239-5">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9239-5.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9239-5.htm"/>
+</file>
+<file ID="FID75" MIMETYPE="text/html" SIZE="1220" DMDID="id-CREC-2017-11-14-pt1-PgH9240">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9240.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9240.htm"/>
+</file>
+<file ID="FID76" MIMETYPE="text/html" SIZE="1344" DMDID="id-CREC-2017-11-14-pt1-PgH9240-2">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9240-2.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9240-2.htm"/>
+</file>
+<file ID="FID77" MIMETYPE="text/html" SIZE="1372" DMDID="id-CREC-2017-11-14-pt1-PgH9240-3">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9240-3.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9240-3.htm"/>
+</file>
+<file ID="FID78" MIMETYPE="text/html" SIZE="1256" DMDID="id-CREC-2017-11-14-pt1-PgH9240-4">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9240-4.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9240-4.htm"/>
+</file>
+<file ID="FID79" MIMETYPE="text/html" SIZE="2102" DMDID="id-CREC-2017-11-14-pt1-PgH9240-5">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9240-5.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9240-5.htm"/>
+</file>
+<file ID="FID80" MIMETYPE="text/html" SIZE="829" DMDID="id-CREC-2017-11-14-pt1-PgH9241">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9241.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9241.htm"/>
+</file>
+<file ID="FID81" MIMETYPE="text/html" SIZE="1471" DMDID="id-CREC-2017-11-14-pt1-PgH9241-2">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9241-2.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9241-2.htm"/>
+</file>
+<file ID="FID82" MIMETYPE="text/html" SIZE="1460" DMDID="id-CREC-2017-11-14-pt1-PgH9241-3">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9241-3.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9241-3.htm"/>
+</file>
+<file ID="FID83" MIMETYPE="text/html" SIZE="52620" DMDID="id-CREC-2017-11-14-pt1-PgH9241-4">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9241-4.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9241-4.htm"/>
+</file>
+<file ID="FID84" MIMETYPE="text/html" SIZE="46888" DMDID="id-CREC-2017-11-14-pt1-PgH9247">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9247.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9247.htm"/>
+</file>
+<file ID="FID85" MIMETYPE="text/html" SIZE="313" DMDID="id-CREC-2017-11-14-pt1-PgH9253">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9253.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9253.htm"/>
+</file>
+<file ID="FID86" MIMETYPE="text/html" SIZE="279" DMDID="id-CREC-2017-11-14-pt1-PgH9253-2">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9253-2.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9253-2.htm"/>
+</file>
+<file ID="FID87" MIMETYPE="text/html" SIZE="723" DMDID="id-CREC-2017-11-14-pt1-PgH9253-3">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9253-3.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9253-3.htm"/>
+</file>
+<file ID="FID88" MIMETYPE="text/html" SIZE="498" DMDID="id-CREC-2017-11-14-pt1-PgH9253-4">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9253-4.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9253-4.htm"/>
+</file>
+<file ID="FID89" MIMETYPE="text/html" SIZE="371" DMDID="id-CREC-2017-11-14-pt1-PgH9253-5">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9253-5.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9253-5.htm"/>
+</file>
+<file ID="FID90" MIMETYPE="text/html" SIZE="7936" DMDID="id-CREC-2017-11-14-pt1-PgH9253-6">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9253-6.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9253-6.htm"/>
+</file>
+<file ID="FID91" MIMETYPE="text/html" SIZE="690" DMDID="id-CREC-2017-11-14-pt1-PgH9254">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9254.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9254.htm"/>
+</file>
+<file ID="FID92" MIMETYPE="text/html" SIZE="5564" DMDID="id-CREC-2017-11-14-pt1-PgH9254-2">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9254-2.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9254-2.htm"/>
+</file>
+<file ID="FID93" MIMETYPE="text/html" SIZE="309" DMDID="id-CREC-2017-11-14-pt1-PgH9254-3">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9254-3.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9254-3.htm"/>
+</file>
+<file ID="FID94" MIMETYPE="text/html" SIZE="237" DMDID="id-CREC-2017-11-14-pt1-PgH9254-4">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9254-4.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9254-4.htm"/>
+</file>
+<file ID="FID95" MIMETYPE="text/html" SIZE="218" DMDID="id-CREC-2017-11-14-pt1-PgH9254-5">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9254-5.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9254-5.htm"/>
+</file>
+<file ID="FID96" MIMETYPE="text/html" SIZE="361" DMDID="id-CREC-2017-11-14-pt1-PgH9254-6">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9254-6.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9254-6.htm"/>
+</file>
+<file ID="FID97" MIMETYPE="text/html" SIZE="216" DMDID="id-CREC-2017-11-14-pt1-PgH9254-7">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9254-7.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9254-7.htm"/>
+</file>
+<file ID="FID98" MIMETYPE="text/html" SIZE="160" DMDID="id-CREC-2017-11-14-pt1-PgH9254-8">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9254-8.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9254-8.htm"/>
+</file>
+<file ID="FID99" MIMETYPE="text/html" SIZE="160" DMDID="id-CREC-2017-11-14-pt1-PgH9254-9">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9254-9.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9254-9.htm"/>
+</file>
+<file ID="FID100" MIMETYPE="text/html" SIZE="160" DMDID="id-CREC-2017-11-14-pt1-PgH9254-10">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9254-10.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9254-10.htm"/>
+</file>
+<file ID="FID101" MIMETYPE="text/html" SIZE="160" DMDID="id-CREC-2017-11-14-pt1-PgH9254-11">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9254-11.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9254-11.htm"/>
+</file>
+<file ID="FID102" MIMETYPE="text/html" SIZE="164" DMDID="id-CREC-2017-11-14-pt1-PgH9254-12">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9254-12.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9254-12.htm"/>
+</file>
+<file ID="FID103" MIMETYPE="text/html" SIZE="180" DMDID="id-CREC-2017-11-14-pt1-PgH9254-13">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9254-13.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9254-13.htm"/>
+</file>
+<file ID="FID104" MIMETYPE="text/html" SIZE="382" DMDID="id-CREC-2017-11-14-pt1-PgH9255">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9255.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9255.htm"/>
+</file>
+<file ID="FID105" MIMETYPE="text/html" SIZE="192" DMDID="id-CREC-2017-11-14-pt1-PgH9255-2">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9255-2.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9255-2.htm"/>
+</file>
+<file ID="FID106" MIMETYPE="text/html" SIZE="208" DMDID="id-CREC-2017-11-14-pt1-PgH9255-3">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9255-3.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9255-3.htm"/>
+</file>
+<file ID="FID107" MIMETYPE="text/html" SIZE="7542" DMDID="id-CREC-2017-11-14-pt1-PgH9255-4">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgH9255-4.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgH9255-4.htm"/>
+</file>
+<file ID="FID108" MIMETYPE="text/html" SIZE="671" DMDID="id-CREC-2017-11-14-pt1-PgS-FrontMatter">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgS-FrontMatter.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgS-FrontMatter.htm"/>
+</file>
+<file ID="FID109" MIMETYPE="text/html" SIZE="298" DMDID="id-CREC-2017-11-14-pt1-PgS7185">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgS7185.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgS7185.htm"/>
+</file>
+<file ID="FID110" MIMETYPE="text/html" SIZE="822" DMDID="id-CREC-2017-11-14-pt1-PgS7185-2">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgS7185-2.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgS7185-2.htm"/>
+</file>
+<file ID="FID111" MIMETYPE="text/html" SIZE="366" DMDID="id-CREC-2017-11-14-pt1-PgS7185-3">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgS7185-3.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgS7185-3.htm"/>
+</file>
+<file ID="FID112" MIMETYPE="text/html" SIZE="964" DMDID="id-CREC-2017-11-14-pt1-PgS7185-4">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgS7185-4.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgS7185-4.htm"/>
+</file>
+<file ID="FID113" MIMETYPE="text/html" SIZE="183" DMDID="id-CREC-2017-11-14-pt1-PgS7185-5">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgS7185-5.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgS7185-5.htm"/>
+</file>
+<file ID="FID114" MIMETYPE="text/html" SIZE="3846" DMDID="id-CREC-2017-11-14-pt1-PgS7185-6">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgS7185-6.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgS7185-6.htm"/>
+</file>
+<file ID="FID115" MIMETYPE="text/html" SIZE="1679" DMDID="id-CREC-2017-11-14-pt1-PgS7186">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgS7186.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgS7186.htm"/>
+</file>
+<file ID="FID116" MIMETYPE="text/html" SIZE="204" DMDID="id-CREC-2017-11-14-pt1-PgS7186-2">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgS7186-2.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgS7186-2.htm"/>
+</file>
+<file ID="FID117" MIMETYPE="text/html" SIZE="174" DMDID="id-CREC-2017-11-14-pt1-PgS7186-3">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgS7186-3.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgS7186-3.htm"/>
+</file>
+<file ID="FID118" MIMETYPE="text/html" SIZE="56623" DMDID="id-CREC-2017-11-14-pt1-PgS7186-4">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgS7186-4.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgS7186-4.htm"/>
+</file>
+<file ID="FID119" MIMETYPE="text/html" SIZE="11330" DMDID="id-CREC-2017-11-14-pt1-PgS7192">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgS7192.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgS7192.htm"/>
+</file>
+<file ID="FID120" MIMETYPE="text/html" SIZE="393" DMDID="id-CREC-2017-11-14-pt1-PgS7194">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgS7194.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgS7194.htm"/>
+</file>
+<file ID="FID121" MIMETYPE="text/html" SIZE="108214" DMDID="id-CREC-2017-11-14-pt1-PgS7194-2">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgS7194-2.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgS7194-2.htm"/>
+</file>
+<file ID="FID122" MIMETYPE="text/html" SIZE="3240" DMDID="id-CREC-2017-11-14-pt1-PgS7206">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgS7206.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgS7206.htm"/>
+</file>
+<file ID="FID123" MIMETYPE="text/html" SIZE="21380" DMDID="id-CREC-2017-11-14-pt1-PgS7206-2">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgS7206-2.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgS7206-2.htm"/>
+</file>
+<file ID="FID124" MIMETYPE="text/html" SIZE="494" DMDID="id-CREC-2017-11-14-pt1-PgS7209">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgS7209.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgS7209.htm"/>
+</file>
+<file ID="FID125" MIMETYPE="text/html" SIZE="4755" DMDID="id-CREC-2017-11-14-pt1-PgS7209-2">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgS7209-2.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgS7209-2.htm"/>
+</file>
+<file ID="FID126" MIMETYPE="text/html" SIZE="682" DMDID="id-CREC-2017-11-14-pt1-PgS7209-3">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgS7209-3.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgS7209-3.htm"/>
+</file>
+<file ID="FID127" MIMETYPE="text/html" SIZE="538" DMDID="id-CREC-2017-11-14-pt1-PgS7209-4">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgS7209-4.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgS7209-4.htm"/>
+</file>
+<file ID="FID128" MIMETYPE="text/html" SIZE="18728" DMDID="id-CREC-2017-11-14-pt1-PgS7209-5">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgS7209-5.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgS7209-5.htm"/>
+</file>
+<file ID="FID129" MIMETYPE="text/html" SIZE="5316" DMDID="id-CREC-2017-11-14-pt1-PgS7211">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgS7211.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgS7211.htm"/>
+</file>
+<file ID="FID130" MIMETYPE="text/html" SIZE="2976" DMDID="id-CREC-2017-11-14-pt1-PgS7212">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgS7212.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgS7212.htm"/>
+</file>
+<file ID="FID131" MIMETYPE="text/html" SIZE="3855" DMDID="id-CREC-2017-11-14-pt1-PgS7212-2">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgS7212-2.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgS7212-2.htm"/>
+</file>
+<file ID="FID132" MIMETYPE="text/html" SIZE="233" DMDID="id-CREC-2017-11-14-pt1-PgS7213">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgS7213.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgS7213.htm"/>
+</file>
+<file ID="FID133" MIMETYPE="text/html" SIZE="409" DMDID="id-CREC-2017-11-14-pt1-PgS7213-2">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgS7213-2.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgS7213-2.htm"/>
+</file>
+<file ID="FID134" MIMETYPE="text/html" SIZE="1420" DMDID="id-CREC-2017-11-14-pt1-PgS7213-3">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgS7213-3.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgS7213-3.htm"/>
+</file>
+<file ID="FID135" MIMETYPE="text/html" SIZE="1045" DMDID="id-CREC-2017-11-14-pt1-PgS7213-4">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgS7213-4.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgS7213-4.htm"/>
+</file>
+<file ID="FID136" MIMETYPE="text/html" SIZE="616" DMDID="id-CREC-2017-11-14-pt1-PgS7213-5">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgS7213-5.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgS7213-5.htm"/>
+</file>
+<file ID="FID137" MIMETYPE="text/html" SIZE="4493" DMDID="id-CREC-2017-11-14-pt1-PgS7213-6">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgS7213-6.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgS7213-6.htm"/>
+</file>
+<file ID="FID138" MIMETYPE="text/html" SIZE="2416" DMDID="id-CREC-2017-11-14-pt1-PgS7213-7">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgS7213-7.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgS7213-7.htm"/>
+</file>
+<file ID="FID139" MIMETYPE="text/html" SIZE="1179" DMDID="id-CREC-2017-11-14-pt1-PgS7214">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgS7214.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgS7214.htm"/>
+</file>
+<file ID="FID140" MIMETYPE="text/html" SIZE="8087" DMDID="id-CREC-2017-11-14-pt1-PgS7214-2">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgS7214-2.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgS7214-2.htm"/>
+</file>
+<file ID="FID141" MIMETYPE="text/html" SIZE="12991" DMDID="id-CREC-2017-11-14-pt1-PgS7215">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgS7215.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgS7215.htm"/>
+</file>
+<file ID="FID142" MIMETYPE="text/html" SIZE="4244" DMDID="id-CREC-2017-11-14-pt1-PgS7216">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgS7216.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgS7216.htm"/>
+</file>
+<file ID="FID143" MIMETYPE="text/html" SIZE="714" DMDID="id-CREC-2017-11-14-pt1-PgS7217">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgS7217.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgS7217.htm"/>
+</file>
+<file ID="FID144" MIMETYPE="text/html" SIZE="20840" DMDID="id-CREC-2017-11-14-pt1-PgS7217-2">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgS7217-2.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgS7217-2.htm"/>
+</file>
+<file ID="FID145" MIMETYPE="text/html" SIZE="5612" DMDID="id-CREC-2017-11-14-pt1-PgS7219">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgS7219.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgS7219.htm"/>
+</file>
+<file ID="FID146" MIMETYPE="text/html" SIZE="14479" DMDID="id-CREC-2017-11-14-pt1-PgS7219-2">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgS7219-2.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgS7219-2.htm"/>
+</file>
+<file ID="FID147" MIMETYPE="text/html" SIZE="4579" DMDID="id-CREC-2017-11-14-pt1-PgS7221">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgS7221.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgS7221.htm"/>
+</file>
+<file ID="FID148" MIMETYPE="text/html" SIZE="711" DMDID="id-CREC-2017-11-14-pt1-PgS7221-2">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgS7221-2.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgS7221-2.htm"/>
+</file>
+<file ID="FID149" MIMETYPE="text/html" SIZE="379" DMDID="id-CREC-2017-11-14-pt1-PgS7221-3">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgS7221-3.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgS7221-3.htm"/>
+</file>
+<file ID="FID150" MIMETYPE="text/html" SIZE="14429" DMDID="id-CREC-2017-11-14-pt1-PgS7221-4">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgS7221-4.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgS7221-4.htm"/>
+</file>
+<file ID="FID151" MIMETYPE="text/html" SIZE="328" DMDID="id-CREC-2017-11-14-pt1-PgS7223">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgS7223.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgS7223.htm"/>
+</file>
+<file ID="FID152" MIMETYPE="text/html" SIZE="433" DMDID="id-CREC-2017-11-14-pt1-PgS7223-2">
+<FLocat LOCTYPE="URL" xlink:href="file://html/CREC-2017-11-14-pt1-PgS7223-2.htm"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/html/CREC-2017-11-14-pt1-PgS7223-2.htm"/>
+</file></fileGrp><fileGrp USE="application/pdf"><file ID="FID153" MIMETYPE="application/pdf" SIZE="167161" DMDID="id-CREC-2017-11-14-pt1-PgD1213">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgD1213.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgD1213.pdf"/>
+</file>
+<file ID="FID154" MIMETYPE="application/pdf" SIZE="156287" DMDID="id-CREC-2017-11-14-pt1-PgD1214">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgD1214.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgD1214.pdf"/>
+</file>
+<file ID="FID155" MIMETYPE="application/pdf" SIZE="156140" DMDID="id-CREC-2017-11-14-pt1-PgD1215">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgD1215.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgD1215.pdf"/>
+</file>
+<file ID="FID156" MIMETYPE="application/pdf" SIZE="159998" DMDID="id-CREC-2017-11-14-pt1-PgD1216">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgD1216.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgD1216.pdf"/>
+</file>
+<file ID="FID157" MIMETYPE="application/pdf" SIZE="143880" DMDID="id-CREC-2017-11-14-pt1-PgD1218">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgD1218.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgD1218.pdf"/>
+</file>
+<file ID="FID158" MIMETYPE="application/pdf" SIZE="197577" DMDID="id-CREC-2017-11-14-pt1-PgD1219">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgD1219.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgD1219.pdf"/>
+</file>
+<file ID="FID159" MIMETYPE="application/pdf" SIZE="179034" DMDID="id-CREC-2017-11-14-pt1-PgE1563-2">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgE1563-2.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgE1563-2.pdf"/>
+</file>
+<file ID="FID160" MIMETYPE="application/pdf" SIZE="179034" DMDID="id-CREC-2017-11-14-pt1-PgE1563-3">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgE1563-3.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgE1563-3.pdf"/>
+</file>
+<file ID="FID161" MIMETYPE="application/pdf" SIZE="185149" DMDID="id-CREC-2017-11-14-pt1-PgE1563-4">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgE1563-4.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgE1563-4.pdf"/>
+</file>
+<file ID="FID162" MIMETYPE="application/pdf" SIZE="158915" DMDID="id-CREC-2017-11-14-pt1-PgE1564">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgE1564.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgE1564.pdf"/>
+</file>
+<file ID="FID163" MIMETYPE="application/pdf" SIZE="158915" DMDID="id-CREC-2017-11-14-pt1-PgE1564-2">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgE1564-2.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgE1564-2.pdf"/>
+</file>
+<file ID="FID164" MIMETYPE="application/pdf" SIZE="158915" DMDID="id-CREC-2017-11-14-pt1-PgE1564-3">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgE1564-3.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgE1564-3.pdf"/>
+</file>
+<file ID="FID165" MIMETYPE="application/pdf" SIZE="158915" DMDID="id-CREC-2017-11-14-pt1-PgE1564-4">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgE1564-4.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgE1564-4.pdf"/>
+</file>
+<file ID="FID166" MIMETYPE="application/pdf" SIZE="164932" DMDID="id-CREC-2017-11-14-pt1-PgE1564-5">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgE1564-5.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgE1564-5.pdf"/>
+</file>
+<file ID="FID167" MIMETYPE="application/pdf" SIZE="158820" DMDID="id-CREC-2017-11-14-pt1-PgE1565">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgE1565.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgE1565.pdf"/>
+</file>
+<file ID="FID168" MIMETYPE="application/pdf" SIZE="158820" DMDID="id-CREC-2017-11-14-pt1-PgE1565-2">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgE1565-2.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgE1565-2.pdf"/>
+</file>
+<file ID="FID169" MIMETYPE="application/pdf" SIZE="158820" DMDID="id-CREC-2017-11-14-pt1-PgE1565-3">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgE1565-3.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgE1565-3.pdf"/>
+</file>
+<file ID="FID170" MIMETYPE="application/pdf" SIZE="158820" DMDID="id-CREC-2017-11-14-pt1-PgE1565-4">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgE1565-4.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgE1565-4.pdf"/>
+</file>
+<file ID="FID171" MIMETYPE="application/pdf" SIZE="158820" DMDID="id-CREC-2017-11-14-pt1-PgE1565-5">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgE1565-5.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgE1565-5.pdf"/>
+</file>
+<file ID="FID172" MIMETYPE="application/pdf" SIZE="164541" DMDID="id-CREC-2017-11-14-pt1-PgE1565-6">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgE1565-6.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgE1565-6.pdf"/>
+</file>
+<file ID="FID173" MIMETYPE="application/pdf" SIZE="158524" DMDID="id-CREC-2017-11-14-pt1-PgE1566">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgE1566.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgE1566.pdf"/>
+</file>
+<file ID="FID174" MIMETYPE="application/pdf" SIZE="158524" DMDID="id-CREC-2017-11-14-pt1-PgE1566-2">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgE1566-2.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgE1566-2.pdf"/>
+</file>
+<file ID="FID175" MIMETYPE="application/pdf" SIZE="158524" DMDID="id-CREC-2017-11-14-pt1-PgE1566-3">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgE1566-3.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgE1566-3.pdf"/>
+</file>
+<file ID="FID176" MIMETYPE="application/pdf" SIZE="158524" DMDID="id-CREC-2017-11-14-pt1-PgE1566-4">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgE1566-4.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgE1566-4.pdf"/>
+</file>
+<file ID="FID177" MIMETYPE="application/pdf" SIZE="158524" DMDID="id-CREC-2017-11-14-pt1-PgE1566-5">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgE1566-5.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgE1566-5.pdf"/>
+</file>
+<file ID="FID178" MIMETYPE="application/pdf" SIZE="158524" DMDID="id-CREC-2017-11-14-pt1-PgE1566-6">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgE1566-6.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgE1566-6.pdf"/>
+</file>
+<file ID="FID179" MIMETYPE="application/pdf" SIZE="163759" DMDID="id-CREC-2017-11-14-pt1-PgE1566-7">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgE1566-7.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgE1566-7.pdf"/>
+</file>
+<file ID="FID180" MIMETYPE="application/pdf" SIZE="158038" DMDID="id-CREC-2017-11-14-pt1-PgE1567">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgE1567.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgE1567.pdf"/>
+</file>
+<file ID="FID181" MIMETYPE="application/pdf" SIZE="158038" DMDID="id-CREC-2017-11-14-pt1-PgE1567-2">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgE1567-2.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgE1567-2.pdf"/>
+</file>
+<file ID="FID182" MIMETYPE="application/pdf" SIZE="145874" DMDID="id-CREC-2017-11-14-pt1-PgH-FrontMatter">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH-FrontMatter.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH-FrontMatter.pdf"/>
+</file>
+<file ID="FID183" MIMETYPE="application/pdf" SIZE="145874" DMDID="id-CREC-2017-11-14-pt1-PgH9181">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9181.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9181.pdf"/>
+</file>
+<file ID="FID184" MIMETYPE="application/pdf" SIZE="145874" DMDID="id-CREC-2017-11-14-pt1-PgH9181-2">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9181-2.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9181-2.pdf"/>
+</file>
+<file ID="FID185" MIMETYPE="application/pdf" SIZE="145874" DMDID="id-CREC-2017-11-14-pt1-PgH9181-3">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9181-3.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9181-3.pdf"/>
+</file>
+<file ID="FID186" MIMETYPE="application/pdf" SIZE="191394" DMDID="id-CREC-2017-11-14-pt1-PgH9181-4">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9181-4.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9181-4.pdf"/>
+</file>
+<file ID="FID187" MIMETYPE="application/pdf" SIZE="103487" DMDID="id-CREC-2017-11-14-pt1-PgH9182">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9182.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9182.pdf"/>
+</file>
+<file ID="FID188" MIMETYPE="application/pdf" SIZE="109136" DMDID="id-CREC-2017-11-14-pt1-PgH9182-2">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9182-2.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9182-2.pdf"/>
+</file>
+<file ID="FID189" MIMETYPE="application/pdf" SIZE="103453" DMDID="id-CREC-2017-11-14-pt1-PgH9183">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9183.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9183.pdf"/>
+</file>
+<file ID="FID190" MIMETYPE="application/pdf" SIZE="109398" DMDID="id-CREC-2017-11-14-pt1-PgH9183-2">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9183-2.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9183-2.pdf"/>
+</file>
+<file ID="FID191" MIMETYPE="application/pdf" SIZE="103749" DMDID="id-CREC-2017-11-14-pt1-PgH9184">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9184.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9184.pdf"/>
+</file>
+<file ID="FID192" MIMETYPE="application/pdf" SIZE="110198" DMDID="id-CREC-2017-11-14-pt1-PgH9184-2">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9184-2.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9184-2.pdf"/>
+</file>
+<file ID="FID193" MIMETYPE="application/pdf" SIZE="104253" DMDID="id-CREC-2017-11-14-pt1-PgH9185">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9185.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9185.pdf"/>
+</file>
+<file ID="FID194" MIMETYPE="application/pdf" SIZE="117600" DMDID="id-CREC-2017-11-14-pt1-PgH9185-2">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9185-2.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9185-2.pdf"/>
+</file>
+<file ID="FID195" MIMETYPE="application/pdf" SIZE="104295" DMDID="id-CREC-2017-11-14-pt1-PgH9187">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9187.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9187.pdf"/>
+</file>
+<file ID="FID196" MIMETYPE="application/pdf" SIZE="109826" DMDID="id-CREC-2017-11-14-pt1-PgH9187-2">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9187-2.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9187-2.pdf"/>
+</file>
+<file ID="FID197" MIMETYPE="application/pdf" SIZE="103335" DMDID="id-CREC-2017-11-14-pt1-PgH9188">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9188.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9188.pdf"/>
+</file>
+<file ID="FID198" MIMETYPE="application/pdf" SIZE="103335" DMDID="id-CREC-2017-11-14-pt1-PgH9188-2">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9188-2.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9188-2.pdf"/>
+</file>
+<file ID="FID199" MIMETYPE="application/pdf" SIZE="103335" DMDID="id-CREC-2017-11-14-pt1-PgH9188-3">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9188-3.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9188-3.pdf"/>
+</file>
+<file ID="FID200" MIMETYPE="application/pdf" SIZE="103335" DMDID="id-CREC-2017-11-14-pt1-PgH9188-4">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9188-4.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9188-4.pdf"/>
+</file>
+<file ID="FID201" MIMETYPE="application/pdf" SIZE="103335" DMDID="id-CREC-2017-11-14-pt1-PgH9188-5">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9188-5.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9188-5.pdf"/>
+</file>
+<file ID="FID202" MIMETYPE="application/pdf" SIZE="103335" DMDID="id-CREC-2017-11-14-pt1-PgH9188-6">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9188-6.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9188-6.pdf"/>
+</file>
+<file ID="FID203" MIMETYPE="application/pdf" SIZE="108830" DMDID="id-CREC-2017-11-14-pt1-PgH9188-7">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9188-7.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9188-7.pdf"/>
+</file>
+<file ID="FID204" MIMETYPE="application/pdf" SIZE="103299" DMDID="id-CREC-2017-11-14-pt1-PgH9189">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9189.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9189.pdf"/>
+</file>
+<file ID="FID205" MIMETYPE="application/pdf" SIZE="103299" DMDID="id-CREC-2017-11-14-pt1-PgH9189-2">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9189-2.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9189-2.pdf"/>
+</file>
+<file ID="FID206" MIMETYPE="application/pdf" SIZE="103299" DMDID="id-CREC-2017-11-14-pt1-PgH9189-3">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9189-3.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9189-3.pdf"/>
+</file>
+<file ID="FID207" MIMETYPE="application/pdf" SIZE="103299" DMDID="id-CREC-2017-11-14-pt1-PgH9189-4">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9189-4.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9189-4.pdf"/>
+</file>
+<file ID="FID208" MIMETYPE="application/pdf" SIZE="103299" DMDID="id-CREC-2017-11-14-pt1-PgH9189-5">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9189-5.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9189-5.pdf"/>
+</file>
+<file ID="FID209" MIMETYPE="application/pdf" SIZE="108653" DMDID="id-CREC-2017-11-14-pt1-PgH9189-6">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9189-6.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9189-6.pdf"/>
+</file>
+<file ID="FID210" MIMETYPE="application/pdf" SIZE="103158" DMDID="id-CREC-2017-11-14-pt1-PgH9190">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9190.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9190.pdf"/>
+</file>
+<file ID="FID211" MIMETYPE="application/pdf" SIZE="103158" DMDID="id-CREC-2017-11-14-pt1-PgH9190-2">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9190-2.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9190-2.pdf"/>
+</file>
+<file ID="FID212" MIMETYPE="application/pdf" SIZE="103158" DMDID="id-CREC-2017-11-14-pt1-PgH9190-3">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9190-3.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9190-3.pdf"/>
+</file>
+<file ID="FID213" MIMETYPE="application/pdf" SIZE="103158" DMDID="id-CREC-2017-11-14-pt1-PgH9190-4">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9190-4.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9190-4.pdf"/>
+</file>
+<file ID="FID214" MIMETYPE="application/pdf" SIZE="129904" DMDID="id-CREC-2017-11-14-pt1-PgH9190-5">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9190-5.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9190-5.pdf"/>
+</file>
+<file ID="FID215" MIMETYPE="application/pdf" SIZE="124550" DMDID="id-CREC-2017-11-14-pt1-PgH9191">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9191.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9191.pdf"/>
+</file>
+<file ID="FID216" MIMETYPE="application/pdf" SIZE="169445" DMDID="id-CREC-2017-11-14-pt1-PgH9191-2">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9191-2.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9191-2.pdf"/>
+</file>
+<file ID="FID217" MIMETYPE="application/pdf" SIZE="103822" DMDID="id-CREC-2017-11-14-pt1-PgH9199">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9199.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9199.pdf"/>
+</file>
+<file ID="FID218" MIMETYPE="application/pdf" SIZE="130818" DMDID="id-CREC-2017-11-14-pt1-PgH9199-2">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9199-2.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9199-2.pdf"/>
+</file>
+<file ID="FID219" MIMETYPE="application/pdf" SIZE="176212" DMDID="id-CREC-2017-11-14-pt1-PgH9200">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9200.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9200.pdf"/>
+</file>
+<file ID="FID220" MIMETYPE="application/pdf" SIZE="329424" DMDID="id-CREC-2017-11-14-pt1-PgH9209">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9209.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9209.pdf"/>
+</file>
+<file ID="FID221" MIMETYPE="application/pdf" SIZE="108525" DMDID="id-CREC-2017-11-14-pt1-PgH9238">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9238.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9238.pdf"/>
+</file>
+<file ID="FID222" MIMETYPE="application/pdf" SIZE="103427" DMDID="id-CREC-2017-11-14-pt1-PgH9239">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9239.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9239.pdf"/>
+</file>
+<file ID="FID223" MIMETYPE="application/pdf" SIZE="103427" DMDID="id-CREC-2017-11-14-pt1-PgH9239-2">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9239-2.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9239-2.pdf"/>
+</file>
+<file ID="FID224" MIMETYPE="application/pdf" SIZE="103427" DMDID="id-CREC-2017-11-14-pt1-PgH9239-3">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9239-3.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9239-3.pdf"/>
+</file>
+<file ID="FID225" MIMETYPE="application/pdf" SIZE="103427" DMDID="id-CREC-2017-11-14-pt1-PgH9239-4">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9239-4.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9239-4.pdf"/>
+</file>
+<file ID="FID226" MIMETYPE="application/pdf" SIZE="108736" DMDID="id-CREC-2017-11-14-pt1-PgH9239-5">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9239-5.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9239-5.pdf"/>
+</file>
+<file ID="FID227" MIMETYPE="application/pdf" SIZE="103113" DMDID="id-CREC-2017-11-14-pt1-PgH9240">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9240.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9240.pdf"/>
+</file>
+<file ID="FID228" MIMETYPE="application/pdf" SIZE="103113" DMDID="id-CREC-2017-11-14-pt1-PgH9240-2">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9240-2.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9240-2.pdf"/>
+</file>
+<file ID="FID229" MIMETYPE="application/pdf" SIZE="103113" DMDID="id-CREC-2017-11-14-pt1-PgH9240-3">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9240-3.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9240-3.pdf"/>
+</file>
+<file ID="FID230" MIMETYPE="application/pdf" SIZE="103113" DMDID="id-CREC-2017-11-14-pt1-PgH9240-4">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9240-4.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9240-4.pdf"/>
+</file>
+<file ID="FID231" MIMETYPE="application/pdf" SIZE="108829" DMDID="id-CREC-2017-11-14-pt1-PgH9240-5">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9240-5.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9240-5.pdf"/>
+</file>
+<file ID="FID232" MIMETYPE="application/pdf" SIZE="103520" DMDID="id-CREC-2017-11-14-pt1-PgH9241">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9241.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9241.pdf"/>
+</file>
+<file ID="FID233" MIMETYPE="application/pdf" SIZE="103520" DMDID="id-CREC-2017-11-14-pt1-PgH9241-2">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9241-2.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9241-2.pdf"/>
+</file>
+<file ID="FID234" MIMETYPE="application/pdf" SIZE="103520" DMDID="id-CREC-2017-11-14-pt1-PgH9241-3">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9241-3.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9241-3.pdf"/>
+</file>
+<file ID="FID235" MIMETYPE="application/pdf" SIZE="136086" DMDID="id-CREC-2017-11-14-pt1-PgH9241-4">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9241-4.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9241-4.pdf"/>
+</file>
+<file ID="FID236" MIMETYPE="application/pdf" SIZE="137578" DMDID="id-CREC-2017-11-14-pt1-PgH9247">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9247.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9247.pdf"/>
+</file>
+<file ID="FID237" MIMETYPE="application/pdf" SIZE="103619" DMDID="id-CREC-2017-11-14-pt1-PgH9253">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9253.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9253.pdf"/>
+</file>
+<file ID="FID238" MIMETYPE="application/pdf" SIZE="103619" DMDID="id-CREC-2017-11-14-pt1-PgH9253-2">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9253-2.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9253-2.pdf"/>
+</file>
+<file ID="FID239" MIMETYPE="application/pdf" SIZE="103619" DMDID="id-CREC-2017-11-14-pt1-PgH9253-3">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9253-3.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9253-3.pdf"/>
+</file>
+<file ID="FID240" MIMETYPE="application/pdf" SIZE="103619" DMDID="id-CREC-2017-11-14-pt1-PgH9253-4">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9253-4.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9253-4.pdf"/>
+</file>
+<file ID="FID241" MIMETYPE="application/pdf" SIZE="103619" DMDID="id-CREC-2017-11-14-pt1-PgH9253-5">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9253-5.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9253-5.pdf"/>
+</file>
+<file ID="FID242" MIMETYPE="application/pdf" SIZE="109881" DMDID="id-CREC-2017-11-14-pt1-PgH9253-6">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9253-6.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9253-6.pdf"/>
+</file>
+<file ID="FID243" MIMETYPE="application/pdf" SIZE="104066" DMDID="id-CREC-2017-11-14-pt1-PgH9254">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9254.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9254.pdf"/>
+</file>
+<file ID="FID244" MIMETYPE="application/pdf" SIZE="104066" DMDID="id-CREC-2017-11-14-pt1-PgH9254-2">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9254-2.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9254-2.pdf"/>
+</file>
+<file ID="FID245" MIMETYPE="application/pdf" SIZE="104066" DMDID="id-CREC-2017-11-14-pt1-PgH9254-3">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9254-3.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9254-3.pdf"/>
+</file>
+<file ID="FID246" MIMETYPE="application/pdf" SIZE="104066" DMDID="id-CREC-2017-11-14-pt1-PgH9254-4">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9254-4.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9254-4.pdf"/>
+</file>
+<file ID="FID247" MIMETYPE="application/pdf" SIZE="104066" DMDID="id-CREC-2017-11-14-pt1-PgH9254-5">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9254-5.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9254-5.pdf"/>
+</file>
+<file ID="FID248" MIMETYPE="application/pdf" SIZE="104066" DMDID="id-CREC-2017-11-14-pt1-PgH9254-6">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9254-6.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9254-6.pdf"/>
+</file>
+<file ID="FID249" MIMETYPE="application/pdf" SIZE="104066" DMDID="id-CREC-2017-11-14-pt1-PgH9254-7">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9254-7.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9254-7.pdf"/>
+</file>
+<file ID="FID250" MIMETYPE="application/pdf" SIZE="104066" DMDID="id-CREC-2017-11-14-pt1-PgH9254-8">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9254-8.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9254-8.pdf"/>
+</file>
+<file ID="FID251" MIMETYPE="application/pdf" SIZE="104066" DMDID="id-CREC-2017-11-14-pt1-PgH9254-9">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9254-9.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9254-9.pdf"/>
+</file>
+<file ID="FID252" MIMETYPE="application/pdf" SIZE="104066" DMDID="id-CREC-2017-11-14-pt1-PgH9254-10">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9254-10.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9254-10.pdf"/>
+</file>
+<file ID="FID253" MIMETYPE="application/pdf" SIZE="104066" DMDID="id-CREC-2017-11-14-pt1-PgH9254-11">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9254-11.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9254-11.pdf"/>
+</file>
+<file ID="FID254" MIMETYPE="application/pdf" SIZE="104066" DMDID="id-CREC-2017-11-14-pt1-PgH9254-12">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9254-12.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9254-12.pdf"/>
+</file>
+<file ID="FID255" MIMETYPE="application/pdf" SIZE="114480" DMDID="id-CREC-2017-11-14-pt1-PgH9254-13">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9254-13.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9254-13.pdf"/>
+</file>
+<file ID="FID256" MIMETYPE="application/pdf" SIZE="108218" DMDID="id-CREC-2017-11-14-pt1-PgH9255">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9255.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9255.pdf"/>
+</file>
+<file ID="FID257" MIMETYPE="application/pdf" SIZE="108218" DMDID="id-CREC-2017-11-14-pt1-PgH9255-2">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9255-2.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9255-2.pdf"/>
+</file>
+<file ID="FID258" MIMETYPE="application/pdf" SIZE="108218" DMDID="id-CREC-2017-11-14-pt1-PgH9255-3">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9255-3.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9255-3.pdf"/>
+</file>
+<file ID="FID259" MIMETYPE="application/pdf" SIZE="108218" DMDID="id-CREC-2017-11-14-pt1-PgH9255-4">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgH9255-4.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgH9255-4.pdf"/>
+</file>
+<file ID="FID260" MIMETYPE="application/pdf" SIZE="164348" DMDID="id-CREC-2017-11-14-pt1-PgS-FrontMatter">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgS-FrontMatter.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgS-FrontMatter.pdf"/>
+</file>
+<file ID="FID261" MIMETYPE="application/pdf" SIZE="164348" DMDID="id-CREC-2017-11-14-pt1-PgS7185">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgS7185.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgS7185.pdf"/>
+</file>
+<file ID="FID262" MIMETYPE="application/pdf" SIZE="164348" DMDID="id-CREC-2017-11-14-pt1-PgS7185-2">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgS7185-2.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgS7185-2.pdf"/>
+</file>
+<file ID="FID263" MIMETYPE="application/pdf" SIZE="164348" DMDID="id-CREC-2017-11-14-pt1-PgS7185-3">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgS7185-3.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgS7185-3.pdf"/>
+</file>
+<file ID="FID264" MIMETYPE="application/pdf" SIZE="164348" DMDID="id-CREC-2017-11-14-pt1-PgS7185-4">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgS7185-4.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgS7185-4.pdf"/>
+</file>
+<file ID="FID265" MIMETYPE="application/pdf" SIZE="164348" DMDID="id-CREC-2017-11-14-pt1-PgS7185-5">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgS7185-5.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgS7185-5.pdf"/>
+</file>
+<file ID="FID266" MIMETYPE="application/pdf" SIZE="209821" DMDID="id-CREC-2017-11-14-pt1-PgS7185-6">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgS7185-6.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgS7185-6.pdf"/>
+</file>
+<file ID="FID267" MIMETYPE="application/pdf" SIZE="103425" DMDID="id-CREC-2017-11-14-pt1-PgS7186">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgS7186.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgS7186.pdf"/>
+</file>
+<file ID="FID268" MIMETYPE="application/pdf" SIZE="103425" DMDID="id-CREC-2017-11-14-pt1-PgS7186-2">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgS7186-2.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgS7186-2.pdf"/>
+</file>
+<file ID="FID269" MIMETYPE="application/pdf" SIZE="103425" DMDID="id-CREC-2017-11-14-pt1-PgS7186-3">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgS7186-3.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgS7186-3.pdf"/>
+</file>
+<file ID="FID270" MIMETYPE="application/pdf" SIZE="137008" DMDID="id-CREC-2017-11-14-pt1-PgS7186-4">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgS7186-4.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgS7186-4.pdf"/>
+</file>
+<file ID="FID271" MIMETYPE="application/pdf" SIZE="114673" DMDID="id-CREC-2017-11-14-pt1-PgS7192">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgS7192.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgS7192.pdf"/>
+</file>
+<file ID="FID272" MIMETYPE="application/pdf" SIZE="103150" DMDID="id-CREC-2017-11-14-pt1-PgS7194">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgS7194.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgS7194.pdf"/>
+</file>
+<file ID="FID273" MIMETYPE="application/pdf" SIZE="192396" DMDID="id-CREC-2017-11-14-pt1-PgS7194-2">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgS7194-2.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgS7194-2.pdf"/>
+</file>
+<file ID="FID274" MIMETYPE="application/pdf" SIZE="102996" DMDID="id-CREC-2017-11-14-pt1-PgS7206">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgS7206.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgS7206.pdf"/>
+</file>
+<file ID="FID275" MIMETYPE="application/pdf" SIZE="137485" DMDID="id-CREC-2017-11-14-pt1-PgS7206-2">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgS7206-2.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgS7206-2.pdf"/>
+</file>
+<file ID="FID276" MIMETYPE="application/pdf" SIZE="121280" DMDID="id-CREC-2017-11-14-pt1-PgS7209">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgS7209.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgS7209.pdf"/>
+</file>
+<file ID="FID277" MIMETYPE="application/pdf" SIZE="121280" DMDID="id-CREC-2017-11-14-pt1-PgS7209-2">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgS7209-2.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgS7209-2.pdf"/>
+</file>
+<file ID="FID278" MIMETYPE="application/pdf" SIZE="121280" DMDID="id-CREC-2017-11-14-pt1-PgS7209-3">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgS7209-3.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgS7209-3.pdf"/>
+</file>
+<file ID="FID279" MIMETYPE="application/pdf" SIZE="121280" DMDID="id-CREC-2017-11-14-pt1-PgS7209-4">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgS7209-4.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgS7209-4.pdf"/>
+</file>
+<file ID="FID280" MIMETYPE="application/pdf" SIZE="154415" DMDID="id-CREC-2017-11-14-pt1-PgS7209-5">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgS7209-5.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgS7209-5.pdf"/>
+</file>
+<file ID="FID281" MIMETYPE="application/pdf" SIZE="148364" DMDID="id-CREC-2017-11-14-pt1-PgS7211">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgS7211.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgS7211.pdf"/>
+</file>
+<file ID="FID282" MIMETYPE="application/pdf" SIZE="121356" DMDID="id-CREC-2017-11-14-pt1-PgS7212">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgS7212.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgS7212.pdf"/>
+</file>
+<file ID="FID283" MIMETYPE="application/pdf" SIZE="127099" DMDID="id-CREC-2017-11-14-pt1-PgS7212-2">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgS7212-2.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgS7212-2.pdf"/>
+</file>
+<file ID="FID284" MIMETYPE="application/pdf" SIZE="103532" DMDID="id-CREC-2017-11-14-pt1-PgS7213">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgS7213.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgS7213.pdf"/>
+</file>
+<file ID="FID285" MIMETYPE="application/pdf" SIZE="103532" DMDID="id-CREC-2017-11-14-pt1-PgS7213-2">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgS7213-2.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgS7213-2.pdf"/>
+</file>
+<file ID="FID286" MIMETYPE="application/pdf" SIZE="103532" DMDID="id-CREC-2017-11-14-pt1-PgS7213-3">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgS7213-3.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgS7213-3.pdf"/>
+</file>
+<file ID="FID287" MIMETYPE="application/pdf" SIZE="103532" DMDID="id-CREC-2017-11-14-pt1-PgS7213-4">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgS7213-4.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgS7213-4.pdf"/>
+</file>
+<file ID="FID288" MIMETYPE="application/pdf" SIZE="103532" DMDID="id-CREC-2017-11-14-pt1-PgS7213-5">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgS7213-5.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgS7213-5.pdf"/>
+</file>
+<file ID="FID289" MIMETYPE="application/pdf" SIZE="103532" DMDID="id-CREC-2017-11-14-pt1-PgS7213-6">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgS7213-6.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgS7213-6.pdf"/>
+</file>
+<file ID="FID290" MIMETYPE="application/pdf" SIZE="110507" DMDID="id-CREC-2017-11-14-pt1-PgS7213-7">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgS7213-7.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgS7213-7.pdf"/>
+</file>
+<file ID="FID291" MIMETYPE="application/pdf" SIZE="104764" DMDID="id-CREC-2017-11-14-pt1-PgS7214">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgS7214.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgS7214.pdf"/>
+</file>
+<file ID="FID292" MIMETYPE="application/pdf" SIZE="110950" DMDID="id-CREC-2017-11-14-pt1-PgS7214-2">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgS7214-2.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgS7214-2.pdf"/>
+</file>
+<file ID="FID293" MIMETYPE="application/pdf" SIZE="110388" DMDID="id-CREC-2017-11-14-pt1-PgS7215">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgS7215.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgS7215.pdf"/>
+</file>
+<file ID="FID294" MIMETYPE="application/pdf" SIZE="131922" DMDID="id-CREC-2017-11-14-pt1-PgS7216">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgS7216.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgS7216.pdf"/>
+</file>
+<file ID="FID295" MIMETYPE="application/pdf" SIZE="125509" DMDID="id-CREC-2017-11-14-pt1-PgS7217">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgS7217.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgS7217.pdf"/>
+</file>
+<file ID="FID296" MIMETYPE="application/pdf" SIZE="157580" DMDID="id-CREC-2017-11-14-pt1-PgS7217-2">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgS7217-2.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgS7217-2.pdf"/>
+</file>
+<file ID="FID297" MIMETYPE="application/pdf" SIZE="144202" DMDID="id-CREC-2017-11-14-pt1-PgS7219">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgS7219.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgS7219.pdf"/>
+</file>
+<file ID="FID298" MIMETYPE="application/pdf" SIZE="156916" DMDID="id-CREC-2017-11-14-pt1-PgS7219-2">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgS7219-2.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgS7219-2.pdf"/>
+</file>
+<file ID="FID299" MIMETYPE="application/pdf" SIZE="123936" DMDID="id-CREC-2017-11-14-pt1-PgS7221">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgS7221.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgS7221.pdf"/>
+</file>
+<file ID="FID300" MIMETYPE="application/pdf" SIZE="123936" DMDID="id-CREC-2017-11-14-pt1-PgS7221-2">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgS7221-2.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgS7221-2.pdf"/>
+</file>
+<file ID="FID301" MIMETYPE="application/pdf" SIZE="123936" DMDID="id-CREC-2017-11-14-pt1-PgS7221-3">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgS7221-3.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgS7221-3.pdf"/>
+</file>
+<file ID="FID302" MIMETYPE="application/pdf" SIZE="130212" DMDID="id-CREC-2017-11-14-pt1-PgS7221-4">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgS7221-4.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgS7221-4.pdf"/>
+</file>
+<file ID="FID303" MIMETYPE="application/pdf" SIZE="120667" DMDID="id-CREC-2017-11-14-pt1-PgS7223">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgS7223.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgS7223.pdf"/>
+</file>
+<file ID="FID304" MIMETYPE="application/pdf" SIZE="120667" DMDID="id-CREC-2017-11-14-pt1-PgS7223-2">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-pt1-PgS7223-2.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14-pt1-PgS7223-2.pdf"/>
+</file>
+<file ID="FID305" MIMETYPE="application/pdf" SIZE="653557">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-house.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14.pdf"/>
+</file>
+<file ID="FID306" MIMETYPE="application/pdf" SIZE="441034">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-senate.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14.pdf"/>
+</file>
+<file ID="FID307" MIMETYPE="application/pdf" SIZE="202063">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-extensions.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14.pdf"/>
+</file>
+<file ID="FID308" MIMETYPE="application/pdf" SIZE="1534653">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14.pdf"/>
+</file>
+<file ID="FID309" MIMETYPE="application/pdf" SIZE="238261">
+<FLocat LOCTYPE="URL" xlink:href="file://pdf/CREC-2017-11-14-dailydigest.pdf"/>
+<FLocat LOCTYPE="URL" xlink:href="https://www.gpo.gov:/fdsys/pkg/CREC-2017-11-14/pdf/CREC-2017-11-14.pdf"/>
+</file></fileGrp></fileSec>
+<structMap>
+<div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgD1213" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID1"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgD1214" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID2"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgD1215" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID3"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgD1216" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID4"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgD1218" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID5"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgD1219" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID6"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgE1563-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID7"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgE1563-3" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID8"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgE1563-4" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID9"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgE1564" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID10"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgE1564-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID11"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgE1564-3" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID12"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgE1564-4" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID13"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgE1564-5" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID14"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgE1565" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID15"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgE1565-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID16"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgE1565-3" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID17"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgE1565-4" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID18"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgE1565-5" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID19"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgE1565-6" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID20"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgE1566" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID21"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgE1566-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID22"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgE1566-3" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID23"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgE1566-4" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID24"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgE1566-5" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID25"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgE1566-6" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID26"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgE1566-7" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID27"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgE1567" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID28"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgE1567-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID29"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH-FrontMatter" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID30"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9181" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID31"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9181-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID32"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9181-3" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID33"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9181-4" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID34"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9182" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID35"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9182-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID36"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9183" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID37"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9183-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID38"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9184" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID39"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9184-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID40"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9185" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID41"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9185-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID42"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9187" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID43"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9187-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID44"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9188" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID45"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9188-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID46"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9188-3" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID47"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9188-4" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID48"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9188-5" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID49"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9188-6" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID50"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9188-7" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID51"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9189" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID52"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9189-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID53"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9189-3" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID54"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9189-4" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID55"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9189-5" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID56"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9189-6" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID57"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9190" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID58"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9190-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID59"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9190-3" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID60"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9190-4" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID61"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9190-5" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID62"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9191" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID63"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9191-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID64"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9199" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID65"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9199-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID66"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9200" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID67"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9209" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID68"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9238" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID69"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9239" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID70"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9239-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID71"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9239-3" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID72"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9239-4" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID73"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9239-5" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID74"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9240" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID75"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9240-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID76"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9240-3" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID77"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9240-4" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID78"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9240-5" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID79"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9241" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID80"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9241-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID81"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9241-3" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID82"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9241-4" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID83"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9247" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID84"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9253" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID85"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9253-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID86"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9253-3" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID87"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9253-4" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID88"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9253-5" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID89"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9253-6" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID90"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9254" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID91"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9254-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID92"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9254-3" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID93"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9254-4" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID94"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9254-5" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID95"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9254-6" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID96"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9254-7" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID97"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9254-8" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID98"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9254-9" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID99"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9254-10" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID100"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9254-11" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID101"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9254-12" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID102"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9254-13" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID103"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9255" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID104"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9255-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID105"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9255-3" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID106"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9255-4" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID107"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS-FrontMatter" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID108"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7185" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID109"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7185-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID110"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7185-3" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID111"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7185-4" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID112"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7185-5" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID113"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7185-6" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID114"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7186" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID115"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7186-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID116"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7186-3" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID117"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7186-4" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID118"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7192" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID119"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7194" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID120"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7194-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID121"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7206" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID122"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7206-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID123"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7209" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID124"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7209-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID125"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7209-3" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID126"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7209-4" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID127"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7209-5" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID128"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7211" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID129"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7212" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID130"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7212-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID131"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7213" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID132"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7213-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID133"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7213-3" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID134"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7213-4" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID135"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7213-5" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID136"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7213-6" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID137"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7213-7" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID138"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7214" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID139"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7214-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID140"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7215" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID141"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7216" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID142"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7217" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID143"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7217-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID144"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7219" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID145"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7219-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID146"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7221" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID147"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7221-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID148"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7221-3" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID149"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7221-4" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID150"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7223" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID151"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7223-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID152"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgD1213" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID153"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgD1214" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID154"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgD1215" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID155"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgD1216" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID156"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgD1218" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID157"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgD1219" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID158"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgE1563-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID159"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgE1563-3" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID160"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgE1563-4" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID161"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgE1564" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID162"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgE1564-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID163"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgE1564-3" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID164"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgE1564-4" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID165"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgE1564-5" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID166"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgE1565" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID167"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgE1565-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID168"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgE1565-3" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID169"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgE1565-4" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID170"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgE1565-5" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID171"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgE1565-6" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID172"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgE1566" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID173"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgE1566-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID174"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgE1566-3" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID175"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgE1566-4" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID176"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgE1566-5" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID177"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgE1566-6" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID178"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgE1566-7" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID179"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgE1567" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID180"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgE1567-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID181"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH-FrontMatter" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID182"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9181" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID183"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9181-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID184"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9181-3" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID185"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9181-4" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID186"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9182" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID187"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9182-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID188"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9183" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID189"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9183-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID190"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9184" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID191"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9184-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID192"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9185" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID193"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9185-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID194"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9187" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID195"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9187-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID196"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9188" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID197"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9188-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID198"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9188-3" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID199"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9188-4" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID200"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9188-5" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID201"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9188-6" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID202"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9188-7" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID203"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9189" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID204"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9189-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID205"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9189-3" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID206"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9189-4" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID207"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9189-5" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID208"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9189-6" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID209"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9190" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID210"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9190-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID211"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9190-3" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID212"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9190-4" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID213"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9190-5" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID214"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9191" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID215"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9191-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID216"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9199" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID217"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9199-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID218"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9200" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID219"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9209" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID220"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9238" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID221"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9239" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID222"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9239-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID223"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9239-3" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID224"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9239-4" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID225"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9239-5" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID226"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9240" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID227"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9240-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID228"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9240-3" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID229"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9240-4" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID230"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9240-5" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID231"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9241" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID232"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9241-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID233"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9241-3" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID234"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9241-4" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID235"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9247" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID236"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9253" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID237"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9253-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID238"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9253-3" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID239"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9253-4" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID240"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9253-5" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID241"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9253-6" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID242"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9254" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID243"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9254-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID244"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9254-3" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID245"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9254-4" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID246"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9254-5" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID247"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9254-6" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID248"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9254-7" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID249"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9254-8" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID250"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9254-9" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID251"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9254-10" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID252"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9254-11" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID253"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9254-12" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID254"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9254-13" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID255"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9255" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID256"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9255-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID257"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9255-3" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID258"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgH9255-4" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID259"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS-FrontMatter" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID260"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7185" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID261"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7185-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID262"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7185-3" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID263"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7185-4" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID264"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7185-5" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID265"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7185-6" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID266"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7186" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID267"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7186-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID268"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7186-3" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID269"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7186-4" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID270"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7192" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID271"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7194" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID272"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7194-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID273"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7206" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID274"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7206-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID275"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7209" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID276"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7209-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID277"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7209-3" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID278"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7209-4" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID279"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7209-5" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID280"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7211" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID281"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7212" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID282"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7212-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID283"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7213" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID284"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7213-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID285"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7213-3" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID286"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7213-4" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID287"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7213-5" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID288"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7213-6" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID289"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7213-7" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID290"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7214" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID291"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7214-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID292"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7215" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID293"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7216" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID294"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7217" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID295"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7217-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID296"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7219" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID297"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7219-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID298"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7221" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID299"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7221-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID300"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7221-3" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID301"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7221-4" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID302"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7223" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID303"/>
+</div>
+<div DMDID="id-CREC-2017-11-14-pt1-PgS7223-2" ADMID="provenance-metadata-premis">
+<fptr FILEID="FID304"/>
+</div>
+<div ADMID="provenance-metadata-premis">
+<fptr FILEID="FID305"/>
+</div>
+<div ADMID="provenance-metadata-premis">
+<fptr FILEID="FID306"/>
+</div>
+<div ADMID="provenance-metadata-premis">
+<fptr FILEID="FID307"/>
+</div>
+<div ADMID="provenance-metadata-premis">
+<fptr FILEID="FID308"/>
+</div>
+<div ADMID="provenance-metadata-premis">
+<fptr FILEID="FID309"/>
+</div>
+</div>
+</structMap>
+</mets>
