@@ -170,10 +170,10 @@ class ParseCRFile(object):
 
     #json_repr = '{"P1": "ss", "Id": 1234, "P2": {"P1": "cccc"}, "P3": [{"P1": "aaa"}]}'
     #json_repr = '{"congress": "115", "name_full": "John H. Rutherford", "bioguideid": "R000609", "chamber": "H", "state": "FL", "role": "SPEAKING", "party": "R"}'
-    u = urllib.urlopen('data.txt')
-    jsonObject = json.loads(u.read().decode('utf-8'))
-    json_repr = json.dumps(jsonObject)
-    print find_values('bioguideid', json_repr)
+    ##u = urllib.urlopen('data.txt')
+    ##jsonObject = json.loads(u.read().decode('utf-8'))
+    ##json_repr = json.dumps(jsonObject)
+    ##print find_values('bioguideid', json_repr)
 
     
  

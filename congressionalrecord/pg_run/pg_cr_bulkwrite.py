@@ -94,6 +94,7 @@ class crToPG(object):
 
         # SPEECHES FOR THE SPEECH THRONE
         speechstack.add(speeches)
+	print(speechstack)
         
 
     def __init__(self,start,**kwargs):
