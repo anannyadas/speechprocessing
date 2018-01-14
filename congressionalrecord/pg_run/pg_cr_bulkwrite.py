@@ -8,6 +8,8 @@ import logging
 import unicodecsv as csv
 import os
 
+
+
 def if_exists(key,store):
     if key in list(store.keys()):
         return store[key]
@@ -34,7 +36,9 @@ class outStack(object):
         Args:
             outpath : File path string
             fieldnames : list of field names in order
+
         """
+	print('$$$$$$$$$$$$$$$$$$$$$$$')
         self.outfile = open(outpath,'ab')
         self.stack = []
         self.writer = csv.DictWriter(self.outfile,fieldnames=fieldnames,
@@ -94,6 +98,7 @@ class crToPG(object):
 
         # SPEECHES FOR THE SPEECH THRONE
         speechstack.add(speeches)
+	#print('$$$$$$$$$$$$$$$$$$$$$$$')
 	print(speechstack)
         
 
@@ -113,6 +118,7 @@ class crToPG(object):
         This is the way to minimize the number
         of transactions to the database, which we want.
         """
+	#print('$$$$$$$$$$$$$$$$$$$$$$$')
         kwargs['do_mode'] = 'yield'
         if 'csvpath' in kwargs:
             pass
