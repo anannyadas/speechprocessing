@@ -1,0 +1,14 @@
+[{
+		"0": "Bookmarks Menu",
+		"uri": "None"
+	},
+	{
+		"1": "Recently Bookmarked",
+		"uri": "place:folder=BOOKMARKS_MENU&folder=UNFILED_BOOKMARKS&(...)"
+	},
+	{
+		"2": "Recent Tags",
+		"uri": "place:sort=14&type=6&maxResults=10&queryType=1"
+
+	}
+]

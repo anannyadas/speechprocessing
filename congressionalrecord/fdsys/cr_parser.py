@@ -9,6 +9,12 @@ import xml.etree.cElementTree as ET
 from .subclasses import crItem
 import logging
 import itertools
+import urllib
+
+#from urllib.request import urlopen
+import json
+from pprint import pprint
+from xml.dom.minidom import parseString
 
 class ParseCRDir(object):
     
@@ -113,7 +119,9 @@ class ParseCRFile(object):
             re_speakers = r'^(\s{1,2}|<bullet>)(?P<name>((' + speaker_list + ')|(((Mr)|(Ms)|(Mrs)|(Miss))\. (([-A-Z\'])(\s)?)+( of [A-Z][a-z]+)?)|(((The ((VICE|ACTING|Acting) )?(PRESIDENT|SPEAKER|CHAIR(MAN)?)( pro tempore)?)|(The PRESIDING OFFICER)|(The CLERK)|(The CHIEF JUSTICE)|(The VICE PRESIDENT)|(Mr\. Counsel [A-Z]+))( \([A-Za-z.\- ]+\))?)))\.'
         else:
             re_speakers = r'^(\s{1,2}|<bullet>)(?P<name>((((Mr)|(Ms)|(Mrs)|(Miss))\. (([-A-Z\'])(\s)?)+( of [A-Z][a-z]+)?)|((The ((VICE|ACTING|Acting) )?(PRESIDENT|SPEAKER|CHAIR(MAN)?)( pro tempore)?)|(The PRESIDING OFFICER)|(The CLERK)|(The CHIEF JUSTICE)|(The VICE PRESIDENT)|(Mr\. Counsel [A-Z]+))( \([A-Za-z.\- ]+\))?))\.'
-        return re_speakers
+	#Added by Anannya, list out speakers in terminal	
+	#print(speaker_list)        
+	return re_speakers
     
     def people_helper(self,tagobject):
         output_dict = {}
@@ -132,7 +140,44 @@ class ParseCRFile(object):
             output_dict['name_full'] = tagobject.find('name',{'type':'authority-fnf'}).string
         except:
             output_dict['name_full'] = 'None'
+	#Added by Anannya, list out output_dict in terminal	
+	#print(output_dict['bioguideid'])
+	#search_bioguideid =  output_dict['bioguideid']
+	#u = urllib.urlopen('data.txt')
+
+	#jsonObject = json.loads(u.read().decode('utf-8'))
+	
+
+	#for key in jsonObject:
+       	 	#value = jsonObject[key]
+	#	value = jsonObject['bioguideid']
+       #	print("The key and value are ({}) = ({})".format('bioguideid', jsonObject))
+	#if value==search_bioguideid :
+	#	print('url found')
         return output_dict
+    
+    def find_values(id, json_repr):
+    	results = []
+
+   	def _decode_dict(a_dict):
+        	try: results.append(a_dict[id])
+        	except KeyError: pass
+        	return a_dict
+
+        json.loads(json_repr, object_hook=_decode_dict)  # Return value ignored.
+        return results
+
+
+    #json_repr = '{"P1": "ss", "Id": 1234, "P2": {"P1": "cccc"}, "P3": [{"P1": "aaa"}]}'
+    #json_repr = '{"congress": "115", "name_full": "John H. Rutherford", "bioguideid": "R000609", "chamber": "H", "state": "FL", "role": "SPEAKING", "party": "R"}'
+    u = urllib.urlopen('data.txt')
+    jsonObject = json.loads(u.read().decode('utf-8'))
+    json_repr = json.dumps(jsonObject)
+    print find_values('bioguideid', json_repr)
+
+    
+ 
+
         
     def find_people(self):
         mbrs = self.doc_ref.find_all('congmember')
@@ -140,8 +185,10 @@ class ParseCRFile(object):
             for mbr in mbrs:
                 self.speakers[mbr.find('name',
                                        {'type':'parsed'}).string] = \
-                                       self.people_helper(mbr)
-    
+                                       	self.people_helper(mbr)
+	    			       
+					
+
     def find_related_bills(self):
         related_bills = self.doc_ref.find_all('bill')
         if len(related_bills) > 0:

@@ -1,0 +1,1 @@
+{"chamber": "H", "state": "KS", "role": "SPEAKING", "congress": "115", "party": "R", "name_full": "Kevin Yoder", "bioguideid": "Y000063"}

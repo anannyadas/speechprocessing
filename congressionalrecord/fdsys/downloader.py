@@ -128,6 +128,7 @@ class Downloader(object):
                 outpath = os.path.join(outpath,'json',filename)
                 with open(outpath,'w') as out_json:
                     json.dump(crfile.crdoc,out_json)
+		
         elif kwargs['do_mode'] == 'yield':
             self.yielded = self.bulkdownload(start,parse=True,**kwargs)
         elif kwargs['do_mode'] == 'noparse':
