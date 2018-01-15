@@ -119,7 +119,7 @@ class Downloader(object):
         elif kwargs['do_mode'] == 'json':
             # outpath called so often to make it easy to follow
             # the idea that we're traversing a directory tree
-	    dataFinal = ''
+	    dataFinal = ""
             for crfile in self.bulkdownload(start,**kwargs):
                 #filename = os.path.split(crfile.filepath)[-1].split('.')[0] + '.json'
 		filename = 'output.json'
@@ -137,11 +137,18 @@ class Downloader(object):
 		with open(outpath,'r') as f:
    			data = json.loads(f.read())
 		
-			
+		#print(dataFinal)
+		#print('*************************************************************************************')
+		#print(data)	
 		dataFinal = dataFinal + str(data)
-		print(dataFinal)
+
+		#import ast
+		#dataFinal=ast.literal_eval(dataFinal)
 		with open(outpath_final,'w') as f:
     			f.write(json.dumps(dataFinal))
+		
+
+		
 		
         elif kwargs['do_mode'] == 'yield':
             self.yielded = self.bulkdownload(start,parse=True,**kwargs)

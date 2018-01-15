@@ -158,9 +158,11 @@ class ParseCRFile(object):
     
     def find_values(id, json_repr):
     	results = []
-
+	print(id)
    	def _decode_dict(a_dict):
-        	try: results.append(a_dict[id])
+        	try:
+			print(a_dict[id])
+			results.append(a_dict[id])
         	except KeyError: pass
         	return a_dict
 
@@ -168,14 +170,25 @@ class ParseCRFile(object):
         return results
 
 
-    #json_repr = '{"P1": "ss", "Id": 1234, "P2": {"P1": "cccc"}, "P3": [{"P1": "aaa"}]}'
-    #json_repr = '{"congress": "115", "name_full": "John H. Rutherford", "bioguideid": "R000609", "chamber": "H", "state": "FL", "role": "SPEAKING", "party": "R"}'
-    ##u = urllib.urlopen('data.txt')
-    ##jsonObject = json.loads(u.read().decode('utf-8'))
-    ##json_repr = json.dumps(jsonObject)
-    ##print find_values('bioguideid', json_repr)
-
     
+    u = urllib.urlopen('output/2017/CREC-2017-11-01/json/output_final.json')
+    #jsonObject = json.loads(u.read().decode('utf-8'))
+    jsonObject = json.loads(u.read())
+    json_repr = json.dumps(jsonObject)
+    #json_repr=json_repr.encode("utf-8","replace")
+	
+
+    #json_repr = '{"P1": "ss", "Id": 1234, "P2": {"P1": "cccc"}, "P3": [{"P1": "aaa"}]}'
+    #json_repr = 's =[{"congress": "115", "name_full": "John H. Rutherford", "bioguideid1": "R000609","state": "FL","role": "SPEAKING", "party": "R"},{"congress": "115", "name_full": "JohnH. Rutherford", "bioguideid": "R000610", "chamber": "H", "state": "FL","role": "SPEAKING", "party": "R"}]'
+    #print find_values('bioguideid1', json_repr)
+    '''json_repr="{'content': [{ 'kind':  'linebreak','speaker_bioguide': None,'text':'______n', 'turn': -1, 'speaker': u 'None','itemno': 0}, {'kind': 'title','speaker_bioguide': None,'text': 'HON. JOHN H. RUTHERFORD of florida  in the house of representatives Wednesday,November 1, 2017','turn':-1,'speaker':'None','itemno': 1}]}"
+    import ast
+    json_repr=ast.literal_eval(json_repr)
+    values = json_repr.values()
+    #print('value77' in [x for v in values for x in v if type(v)==list] )
+    print('R000610' in values)
+'''
+
  
 
         
