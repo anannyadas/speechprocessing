@@ -33,6 +33,7 @@ class ParseCRDir(object):
         self.gen_dir_metadata()
     
 class ParseCRFile(object):
+    #print(object)
     # Some regex
     re_time = r'^CREC-(?P<year>[0-9]{4})-(?P<month>[0-9]{2})-(?P<day>[0-9]{2})-.*'
     re_vol = r'^(?P<title>.*); Congressional Record Vol. (?P<vol>[0-9]+), No. (?P<num>[0-9]+)$'
@@ -125,6 +126,8 @@ class ParseCRFile(object):
     
     def people_helper(self,tagobject):
         output_dict = {}
+	#print(self)
+	#print(tagobject.attrs)
         if 'bioguideid' in tagobject.attrs:
             output_dict['bioguideid'] = tagobject['bioguideid']
         elif 'bioGuideId' in tagobject.attrs:
@@ -158,7 +161,7 @@ class ParseCRFile(object):
     
     def find_values(id, json_repr):
     	results = []
-	print(id)
+	#print(id)
    	def _decode_dict(a_dict):
         	try:
 			print(a_dict[id])
@@ -171,7 +174,7 @@ class ParseCRFile(object):
 
 
     
-    u = urllib.urlopen('output/2017/CREC-2017-11-01/json/output_final.json')
+    u = urllib.urlopen('output/2017/CREC-2017-11-02/json/output_final.json')
     #jsonObject = json.loads(u.read().decode('utf-8'))
     jsonObject = json.loads(u.read())
     json_repr = json.dumps(jsonObject)
@@ -194,6 +197,7 @@ class ParseCRFile(object):
         
     def find_people(self):
         mbrs = self.doc_ref.find_all('congmember')
+	#print(mbrs)
         if mbrs:
             for mbr in mbrs:
                 self.speakers[mbr.find('name',
@@ -382,14 +386,16 @@ class ParseCRFile(object):
             return title_str.strip()
         else:
             return False
-
+    
     def write_page(self):
         turn = 0
         itemno = 0
         title = self.get_title()
         the_content = []
+	the_title = []
         if title:
-            self.crdoc['title'] = title
+           self.crdoc['title'] = title
+	   #print('')
         else:
             self.crdoc['title'] = None
         while self.lines_remaining:
@@ -406,9 +412,22 @@ class ParseCRFile(object):
                 logging.warn('{0}'.format(e))
                 break
 
-        self.crdoc['content'] = the_content
+            self.crdoc['content'] = the_content
+	    #print(type(self.crdoc['content']))
+	    try:
 
-        logging.debug('Stopped writing {0}. The last line is: {1}'.format(self.access_path,self.cur_line))
+			for x in the_content:
+
+				if x['speaker_bioguide']:
+        				print x['speaker_bioguide']
+				else:
+					print('not found')
+	    except Exception as e:
+                logging.warn('{0}'.format(e))
+                break
+		
+             # logging.debug('Stopped writing {0}. The last line is: {1}'.format(self.access_path,self.cur_line))
+	
 
     def parse(self):
         """
@@ -540,3 +559,4 @@ class ParseCRFile(object):
 
         # Parse the file
         self.parse()
+	
