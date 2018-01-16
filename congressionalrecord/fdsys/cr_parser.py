@@ -16,6 +16,7 @@ import json
 from pprint import pprint
 from xml.dom.minidom import parseString
 
+
 class ParseCRDir(object):
     
     def gen_dir_metadata(self):
@@ -127,7 +128,7 @@ class ParseCRFile(object):
     def people_helper(self,tagobject):
         output_dict = {}
 	#print(self)
-	#print(tagobject.attrs)
+	#print(tagobject)
         if 'bioguideid' in tagobject.attrs:
             output_dict['bioguideid'] = tagobject['bioguideid']
         elif 'bioGuideId' in tagobject.attrs:
@@ -159,25 +160,12 @@ class ParseCRFile(object):
 	#	print('url found')
         return output_dict
     
-    def find_values(id, json_repr):
-    	results = []
-	#print(id)
-   	def _decode_dict(a_dict):
-        	try:
-			print(a_dict[id])
-			results.append(a_dict[id])
-        	except KeyError: pass
-        	return a_dict
-
-        json.loads(json_repr, object_hook=_decode_dict)  # Return value ignored.
-        return results
-
-
+  
     
-    u = urllib.urlopen('output/2017/CREC-2017-11-02/json/output_final.json')
+    #u = urllib.urlopen('output/2017/CREC-2017-11-02/json/output_final.json')
     #jsonObject = json.loads(u.read().decode('utf-8'))
-    jsonObject = json.loads(u.read())
-    json_repr = json.dumps(jsonObject)
+    #jsonObject = json.loads(u.read())
+    #json_repr = json.dumps(jsonObject)
     #json_repr=json_repr.encode("utf-8","replace")
 	
 
@@ -203,6 +191,7 @@ class ParseCRFile(object):
                 self.speakers[mbr.find('name',
                                        {'type':'parsed'}).string] = \
                                        	self.people_helper(mbr)
+
 	    			       
 					
 
@@ -419,9 +408,39 @@ class ParseCRFile(object):
 			for x in the_content:
 
 				if x['speaker_bioguide']:
-        				print x['speaker_bioguide']
+        				#print x['speaker_bioguide']
+				   if x['speaker_bioguide'] == 'C001078':
+					
+					#self.people_helper(x)
+					output_dict = {}
+					#print(self)
+					#print(tagobject)
+					tagobject = x
+					print (type(tagobject))
+       					if 'speaker_bioguide' in tagobject.attrs:
+            					output_dict['speaker_bioguide'] = tagobject['speaker_bioguide']
+        				elif 'speaker_bioguide' in tagobject.attrs:
+            					output_dict['speaker_bioguide'] = tagobject['speaker_bioguide']
+        				else:
+            					output_dict['speaker_bioguide'] = 'None'
+        					for key in ['chamber','congress','party','state','role']:
+            						if key in tagobject.attrs:
+                						output_dict[key] = tagobject[key]
+            					else:
+                					output_dict[key] = 'None'
+        					try:
+            						output_dict['name_full'] = tagobject.find('name',{'type':'authority-fnf'}).string
+        					except:
+            						output_dict['name_full'] = 'None'
+				   	print(output_dict)
+
+       					
+					
+				   else:
+					logging.warn('{0}')
+
 				else:
-					print('not found')
+					logging.warn('{0}')
 	    except Exception as e:
                 logging.warn('{0}'.format(e))
                 break
