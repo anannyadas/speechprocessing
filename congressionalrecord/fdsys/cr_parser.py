@@ -124,7 +124,7 @@ class ParseCRFile(object):
 	#Added by Anannya, list out speakers in terminal	
 	#print(speaker_list)        
 	return re_speakers
-    
+
     def people_helper(self,tagobject):
         output_dict = {}
 	#print(self)
@@ -145,7 +145,10 @@ class ParseCRFile(object):
         except:
             output_dict['name_full'] = 'None'
 	#Added by Anannya, list out output_dict in terminal	
-	#print(output_dict['bioguideid'])
+	#print(output_dict)
+
+	with open('speaker_list.txt','a+') as out_json:
+                     json.dump(output_dict,out_json)
 	#search_bioguideid =  output_dict['bioguideid']
 	#u = urllib.urlopen('data.txt')
 
@@ -411,30 +414,10 @@ class ParseCRFile(object):
         				#print x['speaker_bioguide']
 				   if x['speaker_bioguide'] == 'C001078':
 					
-					#self.people_helper(x)
-					output_dict = {}
-					#print(self)
-					#print(tagobject)
+					
 					tagobject = x
-					print (type(tagobject))
-       					if 'speaker_bioguide' in tagobject.attrs:
-            					output_dict['speaker_bioguide'] = tagobject['speaker_bioguide']
-        				elif 'speaker_bioguide' in tagobject.attrs:
-            					output_dict['speaker_bioguide'] = tagobject['speaker_bioguide']
-        				else:
-            					output_dict['speaker_bioguide'] = 'None'
-        					for key in ['chamber','congress','party','state','role']:
-            						if key in tagobject.attrs:
-                						output_dict[key] = tagobject[key]
-            					else:
-                					output_dict[key] = 'None'
-        					try:
-            						output_dict['name_full'] = tagobject.find('name',{'type':'authority-fnf'}).string
-        					except:
-            						output_dict['name_full'] = 'None'
-				   	print(output_dict)
-
-       					
+					#print (tagobject[speaker_bioguide])
+       					      					
 					
 				   else:
 					logging.warn('{0}')
@@ -455,6 +438,7 @@ class ParseCRFile(object):
         self.the_text = self.read_htm_file()
         self.write_header()
         self.write_page()
+
 
     """
     This is a dict of line cases.
@@ -564,7 +548,7 @@ class ParseCRFile(object):
         self.filedir, self.filename = os.path.split(abspath)
         self.cr_dir = cr_dir
         self.access_path = self.filename.split('.')[0]
-
+	
         # Generate all metadata including list of speakers
         self.gen_file_metadata()
         # Must come after speaker list generation
@@ -578,4 +562,5 @@ class ParseCRFile(object):
 
         # Parse the file
         self.parse()
+
 	

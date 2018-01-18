@@ -119,7 +119,9 @@ class Downloader(object):
         elif kwargs['do_mode'] == 'json':
             # outpath called so often to make it easy to follow
             # the idea that we're traversing a directory tree
-	    dataFinal = ""
+	    #from collections import defaultdict
+	    #dataFinal = defaultdict(list)
+	    dataFinal = []
             for crfile in self.bulkdownload(start,**kwargs):
                 #filename = os.path.split(crfile.filepath)[-1].split('.')[0] + '.json'
 		filename = 'output.json'
@@ -130,22 +132,33 @@ class Downloader(object):
                     os.mkdir(os.path.join(outpath,'json'))
  		outpath_final = os.path.join(outpath,'json',filename_final)
                 outpath = os.path.join(outpath,'json',filename)
-                with open(outpath,'w') as out_json:
+                with open(outpath,'a+') as out_json:
                      json.dump(crfile.crdoc,out_json)
+		
 
-
-		with open(outpath,'r') as f:
-   			data = json.loads(f.read())
+		##with open(outpath,'r') as f:
+   			##data = json.loads(f.read())
 		
 		#print(dataFinal)
 		#print('*************************************************************************************')
 		#print(data)	
-		dataFinal = dataFinal + str(data)
-
+		##dataFinal = dataFinal + str(data)
+		#z=merge_two_dicts(dataFinal,data)
+		#mergedlist = dict(set(dataFinal + data))
+		#context = dict((data[0].items()) + (dataFinal[0].items()))
 		#import ast
 		#dataFinal=ast.literal_eval(dataFinal)
-		with open(outpath_final,'w') as f:
-    			f.write(json.dumps(dataFinal))
+		'''with open('anannya.txt') as f1, open('anannya.txt') as f2:
+    			first_list = json.load(f1)
+    			second_list = json.load(f2)
+
+		for i, v in enumerate(first_list):
+
+    				second_list[i].update(v)'''
+		
+		
+		##with open(outpath_final,'w') as f:
+    			##f.write(json.dumps(dataFinal))
 		
 
 		
@@ -157,10 +170,8 @@ class Downloader(object):
 
         else:
             return None
-    
-                                                                       
-                            
-        
+
+
 
 class downloadRequest(object):
 

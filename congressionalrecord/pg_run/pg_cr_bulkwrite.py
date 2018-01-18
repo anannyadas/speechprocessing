@@ -38,11 +38,12 @@ class outStack(object):
             fieldnames : list of field names in order
 
         """
-	print('$$$$$$$$$$$$$$$$$$$$$$$')
+	#print('$$$$$$$$$$$$$$$$$$$$$$$')
         self.outfile = open(outpath,'ab')
         self.stack = []
         self.writer = csv.DictWriter(self.outfile,fieldnames=fieldnames,
                                      delimiter='|',encoding='utf-8')
+	print(self.writer)
 
     
 
@@ -99,7 +100,7 @@ class crToPG(object):
         # SPEECHES FOR THE SPEECH THRONE
         speechstack.add(speeches)
 	#print('$$$$$$$$$$$$$$$$$$$$$$$')
-	print(speechstack)
+	#print(speeches)
         
 
     def __init__(self,start,**kwargs):

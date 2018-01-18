@@ -73,4 +73,5 @@ class crItem(object):
 
         self.parent = parent
         self.item_builder()
-        # self.item['text'] = self.find_items(contentiter)
+        self.item['text'] = self.find_items(contentiter)
+	#print(self)
